@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://jobviewtrack.com/v2/AoTc6OiiLW_LxpHOrmpavXbj6zEnWVtNXV2ltq8edxh95k8Yp3RQAifs0hzy2P5JUXfCaEeWKxgKLBHBKMEAN29SLXhTJjt1IID7Tjqm2CoRuSlHKknLdnoYc7AJlhiBiENQU8zvDYmeE_45OVspP3s2koI6YgoO9pahXhnYVU5RicVkscn9J_0HzAKxJNwmhrVqjKbfZkctEFTSSKxPt7Zgt0fY51_-zU7WvSneOlQ",
-    "title": "Inspector De Specialitate In Administratia Publica",
-    "company": "TEATRUL DE DRAMA SI COMEDIE FANTASTIC SRL",
-    "location": [
-      "Targu Jiu, Gorj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:55:48.112Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare publică",
-      "Politici publice"
-    ],
-    "matchPercentage": 75,
-    "reason": "Titlul postului corespunde direct cu domeniul de studiu, dar lipsa descrierii și locația (Târgu Jiu) reduc disponibilitatea"
-  },
-  {
     "url": "https://jobviewtrack.com/v2/-_Lhjj_ngaE3KSGWaxnbnZmK3LuKLBDRvAtFIv1Nm2GvmlXoAFma8sBcAfQAy3FojZuCbCbN9ztb0Ru1bv3Fm_O9Hxid3qAqGrb4xE6BfrVPl4j2ZGNgAHy1YQKgcgbV-KsxWZFAJim98XoIfRnH9oFqfO762khaatYD5NgmRnT4TWM54-mbdGJN9t4Y7aLzbMhSf2p5_fIJFobnJfqDoUdCO7uXSqbKWCJ0n8X0Pdw",
     "title": "Consilier Administratia Publica",
     "company": "ARC BRASOV SRL",
@@ -28,27 +11,10 @@
     "status": "scraped",
     "tags": [
       "Administrare publică",
-      "Comunicare în administrație"
+      "Politici publice"
     ],
     "matchPercentage": 60,
-    "reason": "Titlul este relevant dar descrierea lipsește; firma privată în Brașov, selecție prin concurs"
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3325904",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
-    "location": [
-      "Municipiul ramnicu valcea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:52:03.136Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare publică",
-      "Planificare strategică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Consilier administrație publică prin concurs, corespunde profilului de studiu"
+    "reason": "Titlul corespunde direct profilului de administratie publica. Descrierea lipsa, dar numele jobului indică un rol potrivit."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3360804",
@@ -62,10 +28,27 @@
     "status": "scraped",
     "tags": [
       "Administrare publică",
-      "Comunicare în administrație"
+      "Politici publice"
     ],
     "matchPercentage": 60,
-    "reason": "Dublură a jobului #2, titlu relevant dar fără detalii suplimentare"
+    "reason": "Identic cu jobul #2, titlul potrivit profilului FSPAC."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/membrii-consiliul-administratie-spadia-pielesti",
+    "title": "MEMBRII CONSILIUL ADMINISTRATIE SPADIA PIELESTI",
+    "company": "SERVICIU DE GOSPODARIE COMUNALA PIELESTI S.R.L.",
+    "location": [
+      "Strada Gheorghita Geolgau 188, Pielesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:50:48.639Z",
+    "status": "scraped",
+    "tags": [
+      "Management public",
+      "Teorii organizaționale"
+    ],
+    "matchPercentage": 50,
+    "reason": "Consiliul de administratie al unui serviciu public local - potrivit pentru cunostintele de management public si teorii organizationale, dar e un rol de governance, nu executiv."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3337316",
@@ -79,10 +62,27 @@
     "status": "scraped",
     "tags": [
       "Administrare publică",
-      "Finanțe publice"
+      "Comunicare în administrație"
     ],
-    "matchPercentage": 78,
-    "reason": "Referent în administrație publică la o întreprindere publică, dar selectie prin interviu, nu valabil pentru cetățenii UE"
+    "matchPercentage": 65,
+    "reason": "Referent in administratie publica la o companie de stat. Potrivit cu competentele de administrare publica si comunicare in administratie."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/membru-consiliul-de-administratie-piete-sibiu-sa-1",
+    "title": "MEMBRU CONSILIUL DE ADMINISTRAȚIE PIEȚE SIBIU SA",
+    "company": "BIONEUROS SIBIU S.R.L.",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:50:01.189Z",
+    "status": "scraped",
+    "tags": [
+      "Management public",
+      "Teorii organizaționale"
+    ],
+    "matchPercentage": 55,
+    "reason": "Consiliul de administratie al unei companii publice locale - aliniat cu cunostintele de management public si teorii organizationale."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3167940",
@@ -96,27 +96,10 @@
     "status": "scraped",
     "tags": [
       "Administrare publică",
-      "E-guvernare"
+      "Politici publice"
     ],
-    "matchPercentage": 85,
-    "reason": "Inspector în administrație publică la un centru de inovare urbană - potrivire excelentă cu studiile și competențele, selecție prin concurs"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-administratie-si-servicii-clienti-1",
-    "title": "Specialist Administrație și Servicii Clienți",
-    "company": "BEST SERVICE SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:48:36.525Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare în administrație",
-      "Competențe digitale"
-    ],
-    "matchPercentage": 45,
-    "reason": "Rol de administrație combinat cu servicii clienți - parțial relevant dar orientat mai mult spre customer service"
+    "matchPercentage": 75,
+    "reason": "Inspector in administratie publica la o institutie publica sectorului. Foarte potrivit: administrare publica, politici publice, dezvoltare urbana/regionala."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3329407",
@@ -132,8 +115,8 @@
       "Administrare publică",
       "Drept administrativ"
     ],
-    "matchPercentage": 78,
-    "reason": "Consilier administrație publică, muncă de birou, concurs valabil cetățeni UE - foarte potrivit profilului"
+    "matchPercentage": 60,
+    "reason": "Consilier administratie publica, munca de birou, concurs de selectie - tipic pentru sectorul public. Profil potrivit."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3329399",
@@ -149,144 +132,42 @@
       "Administrare publică",
       "Drept administrativ"
     ],
-    "matchPercentage": 78,
-    "reason": "Dublură a jobului #11, același profil potrivit"
+    "matchPercentage": 60,
+    "reason": "Identic cu #11."
   },
   {
-    "url": "https://www.leohr.ro/jobs/functionar-administrativ/229/",
-    "title": "Functionar Administrativ",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bragadiru,jud. Ilfov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:23.665Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare publică",
-      "Competențe digitale"
-    ],
-    "matchPercentage": 55,
-    "reason": "Funcționar administrativ - rol generic de birou, parțial relevant pentru profilul de administrație"
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000127007330",
-    "title": "Sr Specialist Public Relations (They/She/He)",
-    "company": "DELIVERY HERO S.R.L.",
+    "url": "https://jobs.lever.co/Civitta/3d236660-0778-42f0-afd9-ddf940a31a76",
+    "title": "Associate Partner | EU Public Advisory",
+    "company": "CIVITTA STRATEGY &amp; CONSULTING S.A.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:44:34.785Z",
+    "date": "2026-09-13T13:08:39.559Z",
     "status": "scraped",
     "tags": [
-      "Comunicare în administrație",
-      "Planificare strategică"
+      "Politici publice",
+      "Mecanisme și instituții UE"
     ],
-    "matchPercentage": 50,
-    "reason": "Rol de PR corporatist - competențele de comunicare sunt relevante dar experiența necesară depășește nivelul de student"
+    "matchPercentage": 70,
+    "reason": "Consultanta pe politici UE, proiecte cu institutii publice, analiza de politici - foarte aliniat cu politicile publice, mecanisme UE si dezvoltare regionala. Totusi, nivelul 'Associate Partner' poate fi prea senior."
   },
   {
-    "url": "https://jobs.lever.co/tsmg/a94275e3-beaa-477a-b082-97f897b8457f",
-    "title": "Field Operator - Public Transport Survey Project",
-    "company": "TSM GREEN WAY S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/associate-partner-eu-public-advisory",
+    "title": "Associate Partner | EU Public Advisory",
+    "company": "CIVITTA STRATEGY &amp; CONSULTING S.A.",
     "location": [
-      "Bucuresti, Romania"
+      "București, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:44:23.713Z",
+    "date": "2026-09-12T12:04:44.171Z",
     "status": "scraped",
     "tags": [
-      "Cercetare în științe sociale",
-      "Competențe digitale"
+      "Politici publice",
+      "Mecanisme și instituții UE"
     ],
-    "matchPercentage": 35,
-    "reason": "Culegere de date pe teren pentru transport public - competențele de cercetare sunt relevante dar rolul este prea operațional"
-  },
-  {
-    "url": "https://careers.glovoapp.com/job/sr-specialist-public-relations-they-she-he-in-bucharest-romania-jid-744000127007330/",
-    "title": "Sr Specialist Public Relations (They/She/He)",
-    "company": "DANI GLOVO S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:43:53.219Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare în administrație",
-      "Planificare strategică"
-    ],
-    "matchPercentage": 50,
-    "reason": "Rol de PR corporatist similar cu #16 - competențe de comunicare relevante dar nivelul de experiență prea ridicat"
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/m7LOKL-3q72VmcFiAfO-Xr6ynIojMk1Io12gw6yJPYT7GoRnPaoScAiKCYz2zH6QBiPQqTqUAFO1B2k_9glojH_JRsdS9XTT_keueRvHg1gcGOlEHikDWg0HOapEtx58CG1WOaSrLuW3PCooU_n9JLomIQ4iIffucqrR8Ku3uPnMVUpF-JVoXPeIPGbePlN_tXoXGtpMghSxkskB4Y-_fr0LKoyUteV-wlPAswatiDg",
-    "title": "Functionar Economic",
-    "company": "CELESTICA SRL",
-    "location": [
-      "Oradea, Bihor, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-09T12:46:25.039Z",
-    "status": "scraped",
-    "tags": [
-      "Management financiar",
-      "Finanțe publice"
-    ],
-    "matchPercentage": 40,
-    "reason": "Funcționar economic - parțial relevant prin competențele de finanțe publice dar orientat spre sectorul privat"
-  },
-  {
-    "url": "https://recrutaresiselectie.ro/job/expert-achizitii-publice-cluj-napoca/",
-    "title": "Expert Achiziții Publice – Cluj-Napoca",
-    "company": "HUMAN CAPITAL SRL",
-    "location": [
-      "Cluj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:50.027Z",
-    "status": "scraped",
-    "tags": [
-      "Achiziții publice",
-      "Finanțe publice"
-    ],
-    "matchPercentage": 85,
-    "reason": "Expert achiziții publice în Cluj-Napoca - corespunde perfect cu competențele de achiziții publice și finanțe publice, locație favorabilă"
-  },
-  {
-    "url": "https://recrutaresiselectie.ro/job/expert-achizitii-publice-4/",
-    "title": "EXPERT ACHIZITII PUBLICE",
-    "company": "HUMAN CAPITAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:50.027Z",
-    "status": "scraped",
-    "tags": [
-      "Achiziții publice",
-      "Finanțe publice"
-    ],
-    "matchPercentage": 85,
-    "reason": "Titlul jobului corespunde direct cu competența de Achiziții Publice din planul de învățământ. Fără descriere detaliată, dar specializarea e clară."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/specialist-achizitii-publice-in-constructii-proiectare/153/",
-    "title": "Specialist Achizitii Publice in Constructii – Proiectare",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti,Sector 2, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:44:26.352Z",
-    "status": "scraped",
-    "tags": [
-      "Achiziții publice",
-      "Drept administrativ"
-    ],
-    "matchPercentage": 75,
-    "reason": "Achiziții publice în construcții/proiectare - domeniul de achiziții se potrivește, dar nișa construcții/proiectare e mai tehnică."
+    "matchPercentage": 70,
+    "reason": "Identic cu #20."
   },
   {
     "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-072026-1137431",
@@ -296,31 +177,31 @@
       "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:43:30.271Z",
+    "date": "2026-09-13T13:15:16.496Z",
     "status": "scraped",
     "tags": [
       "Achiziții publice",
-      "Politici publice"
+      "Finanțe publice"
     ],
-    "matchPercentage": 90,
-    "reason": "Expert achiziții publice în consultanță - acoperă elaborarea documentațiilor, strategii de contractare, evaluarea ofertelor, management contractual. Potrivire excelentă cu planul de studii."
+    "matchPercentage": 80,
+    "reason": "Expert achizitii publice - corespunde direct cu competenta de achizitii publice din planul de invatamant. Consultanta in domeniul achizitiilor publice, management contractual. Foarte potrivit."
   },
   {
-    "url": "https://www.hrsro.com/job-posts/specialist-licitatii-publice",
-    "title": "Specialist Licitatii Publice",
-    "company": "HR ROMANIA S.R.L.",
+    "url": "https://recrutaresiselectie.ro/job/inginer-eligibilitate-licitatii-publice-bucuresti/",
+    "title": "Inginer Eligibilitate &amp; Licitații Publice – București",
+    "company": "HUMAN CAPITAL SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-09T12:52:19.108Z",
+    "date": "2026-09-13T13:14:48.403Z",
     "status": "scraped",
     "tags": [
       "Achiziții publice",
-      "Drept administrativ"
+      "Finanțe publice"
     ],
-    "matchPercentage": 80,
-    "reason": "Specialist licitații publice - domeniul e în sfera achizițiilor publice, competență studiată la FSPAC."
+    "matchPercentage": 65,
+    "reason": "Rolul presupune analiza documentațiilor pentru licitații publice, ceea ce se aliniază parțial cu competențele de achiziții publice, dar titlul de \"Inginer\" sugerează cerințe tehnice specifice ce nu acoperă profilul de științe politice/administrație."
   },
   {
     "url": "https://www.leohr.ro/jobs/expert-achizitii-publice/338/",
@@ -330,14 +211,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-09T12:46:25.607Z",
+    "date": "2026-09-13T13:12:51.502Z",
     "status": "scraped",
     "tags": [
       "Achiziții publice",
       "Finanțe publice"
     ],
-    "matchPercentage": 85,
-    "reason": "Expert achiziții publice într-o firmă de consultanță. Potrivire directă cu competențele de achiziții publice și drept administrativ."
+    "matchPercentage": 75,
+    "reason": "Rolul de expert în achiziții publice se potrivește cu competențele dobândite în planul de învățământ, în special achizițiile publice și finanțele publice. Experiența anterioară cerută poate fi un obstacol pentru un student."
   },
   {
     "url": "https://www.teamland.ro/apply.php?id=391#content",
@@ -347,14 +228,65 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-08T12:38:44.491Z",
+    "date": "2026-09-13T13:09:18.098Z",
     "status": "scraped",
     "tags": [
       "Achiziții publice",
-      "Drept administrativ"
+      "Administrare publică"
+    ],
+    "matchPercentage": 75,
+    "reason": "Specializarea în achiziții publice este direct relevanta pentru profilul FSPAC. Jobul implică proceduri de achiziții publice, domeniu acoperit în curriculum."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/specialist-achizitii-publice-in-constructii-proiectare/153/",
+    "title": "Specialist Achizitii Publice in Constructii – Proiectare",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti,Sector 2, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:06:38.066Z",
+    "status": "scraped",
+    "tags": [
+      "Achiziții publice",
+      "Planificare strategică"
+    ],
+    "matchPercentage": 55,
+    "reason": "Deși domeniul achizițiilor publice este relevant, specializarea pe construcții/proiectare necesită cunoștințe tehnice specifice din domeniul construcțiilor, mai puțin accesibile absolvenților FSPAC."
+  },
+  {
+    "url": "https://recrutaresiselectie.ro/job/expert-achizitii-publice-cluj-napoca/",
+    "title": "Expert Achiziții Publice – Cluj-Napoca",
+    "company": "HUMAN CAPITAL SRL",
+    "location": [
+      "Cluj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:06:34.214Z",
+    "status": "scraped",
+    "tags": [
+      "Achiziții publice",
+      "Administrare publică"
     ],
     "matchPercentage": 80,
-    "reason": "Specialist achiziții publice - rol aliniat cu competențele dobândite în facultate în domeniul achizițiilor publice."
+    "reason": "Locația în Cluj-Napoca (sediu UBB) și domeniul achizițiilor publice reprezintă o potrivire excelentă cu profilul de administrație publică și competențele dobândite."
+  },
+  {
+    "url": "https://recrutaresiselectie.ro/job/expert-achizitii-publice-4/",
+    "title": "EXPERT ACHIZITII PUBLICE",
+    "company": "HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:06:34.214Z",
+    "status": "scraped",
+    "tags": [
+      "Achiziții publice",
+      "Finanțe publice"
+    ],
+    "matchPercentage": 75,
+    "reason": "Achizițiile publice sunt un domeniu central în planul de învățământ FSPAC. Jobul se potrivește cu competențele de finanțe publice și administrare publică."
   },
   {
     "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/expert-licitatii-publice-vanzari-b2b",
@@ -364,14 +296,31 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-07T14:00:55.225Z",
+    "date": "2026-09-12T12:06:11.623Z",
     "status": "scraped",
     "tags": [
       "Achiziții publice",
-      "Comunicare"
+      "Comunicare în administrație"
     ],
-    "matchPercentage": 75,
-    "reason": "Pregătirea și depunerea ofertelor pentru proceduri de achiziții publice, conformitate documentații, monitorizare oportunități. Se potrivește cu competențele de achiziții publice, deși e orientat spre vânzări B2B."
+    "matchPercentage": 60,
+    "reason": "Rolul implică pregătirea documentațiilor pentru licitații publice, ceea ce e relevant, însă componenta de vânzări B2B și mediul medical sunt mai puțin aliniate cu profilul academic."
+  },
+  {
+    "url": "https://www.hrsro.com/job-posts/specialist-licitatii-publice",
+    "title": "Specialist Licitatii Publice",
+    "company": "HR ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:03:37.440Z",
+    "status": "scraped",
+    "tags": [
+      "Achiziții publice",
+      "Administrare publică"
+    ],
+    "matchPercentage": 70,
+    "reason": "Specializarea pe licitații publice este direct relevantă pentru competențele de achiziții publice și administrare publică dobândite la FSPAC."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-licitatii-publice-seap-sicap-4",
@@ -385,78 +334,146 @@
     "status": "scraped",
     "tags": [
       "Achiziții publice",
-      "Drept administrativ"
-    ],
-    "matchPercentage": 85,
-    "reason": "Specialist licitații publice SEAP/SICAP - lucru direct cu sistemul electronic de achiziții publice, competență studiată la facultate."
-  },
-  {
-    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3908",
-    "title": "Specialist sistem de management al calității",
-    "company": "PREH ROMANIA SRL",
-    "location": [
-      "Ghimbav, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:50:33.079Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul calității",
-      "Evaluarea programelor"
+      "E-guvernare"
     ],
     "matchPercentage": 70,
-    "reason": "Managementul calității în sectorul operațional - am competența de Managementul calității în sectorul public, transferabilă și în privat."
+    "reason": "Cunoașterea sistemului SEAP/SICAP este esențială în achizițiile publice, un domeniu acoperit în planul de învățământ FSPAC. Locația în Constanța poate fi un inconvenient."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/consultant-process-management-fm-gmp2re",
-    "title": "Consultant Process Management (f/m)",
-    "company": "LIDL DISCOUNT SRL",
+    "url": "https://careers.db.com/professionals/search-roles/#/professional/job/68086",
+    "title": "Strategic Delivery &amp;amp; Execution (Third Party Risk Management &amp;amp; Operational Resilience), (f/m/x)",
+    "company": "DEUTSCHE BAHN CARGO ROMANIA S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:50:10.941Z",
+    "date": "2026-09-13T13:15:41.457Z",
+    "status": "scraped",
+    "tags": [
+      "Management financiar",
+      "Politici publice"
+    ],
+    "matchPercentage": 45,
+    "reason": "Rolul în managementul riscurilor terților și reziliența operațională are o conexiune slabă cu competențele de management financiar și politici publice, dar necesită expertiză specifică în risc operațional."
+  },
+  {
+    "url": "https://jobs-cee.pwc.com/ce/en/job/748162WD",
+    "title": "SAP SuccessFactors Talent Management Consultant",
+    "company": "HANDRA PWC S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:16.496Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul resurselor umane",
+      "Teorii organizaționale"
+    ],
+    "matchPercentage": 55,
+    "reason": "Consultanța în talent management are o legătură cu resursele umane și teoriile organizaționale, dar necesită cunoștințe tehnice SAP specifice și experiență în consultanță."
+  },
+  {
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/Lead-Operational-Risk-Management--NFR---ING-Hubs-Romania_REQ-10119546",
+    "title": "Lead Operational Risk Management (NFR) @ING Hubs Romania",
+    "company": "ING HUBS B.V. AMSTERDAM - SUCURSALA BUCUREȘTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:11.390Z",
+    "status": "scraped",
+    "tags": [
+      "Management financiar",
+      "Politici publice"
+    ],
+    "matchPercentage": 40,
+    "reason": "Managementul riscurilor operaționale are o conexiune marginală cu competențele de management financiar și politici publice, dar rolul este senior și orientat spre banking."
+  },
+  {
+    "url": "https://careers.ing.com/en/job/bucharest/quality-assurance-operational-risk-management-specialist-non-it-ing-hubs-romania/3121/36531103296",
+    "title": "Quality Assurance Operational Risk Management Specialist (Non IT)  @ING Hubs Romania",
+    "company": "ING TRUST SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:11.390Z",
     "status": "scraped",
     "tags": [
       "Managementul calității",
-      "Evaluarea programelor"
+      "Management financiar"
     ],
-    "matchPercentage": 65,
-    "reason": "Consultant management de procese - se poate lega de managementul calității și evaluarea performanțelor din planul de studii, dar e în privat."
+    "matchPercentage": 40,
+    "reason": "Asigurarea calității în managementul riscurilor are tangențe cu managementul calității în sectorul public, dar contextul bancar și cerințele tehnice reduc potrivirea."
   },
   {
-    "url": "https://www.leohr.ro/jobs/responsabil-administrativ-facility/437/",
-    "title": "Responsabil Administrativ Facility",
-    "company": "LEOHR S.R.L.",
+    "url": "https://careers.ing.com/en/job/bucharest/lead-operational-risk-management-nfr-ing-hubs-romania/3121/42524007808",
+    "title": "Lead Operational Risk Management (NFR) @ING Hubs Romania",
+    "company": "ING TRUST SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:09.918Z",
+    "date": "2026-09-13T13:14:50.323Z",
+    "status": "scraped",
+    "tags": [
+      "Management financiar",
+      "Politici publice"
+    ],
+    "matchPercentage": 40,
+    "reason": "Similar cu varianta anterioară, managementul riscurilor are o legătură marginală cu finanțele publice, dar rolul este senior și specific sectorului bancar."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/coordonator-project-management",
+    "title": "Coordonator Project Management",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:49.549Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul proiectelor",
+      "Planificare strategică"
+    ],
+    "matchPercentage": 60,
+    "reason": "Coordonarea de proiecte este relevantă pentru competențele de managementul proiectelor și planificare strategică dobândite la FSPAC. Domeniul energetic necesită adaptare."
+  },
+  {
+    "url": "https://jobs.vodafone.com/careers/job/563018697900384",
+    "title": "Order Management Specialist",
+    "company": "VODAFONE ROMANIA SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:14:09.481Z",
     "status": "scraped",
     "tags": [
       "Administrare publică",
-      "Managementul resurselor umane"
+      "Competențe digitale"
     ],
-    "matchPercentage": 75,
-    "reason": "Responsabil administrativ - se potrivește cu competențele de administrare publică și managementul resurselor umane. Chiar dacă e facility management, rolul administrativ e central."
+    "matchPercentage": 45,
+    "reason": "Rolul în gestionarea comenzilor are o legătură limitată cu competențele de administrare publică, dar este orientat spre sectorul telecom și necesită experiență specifică."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Asistent-Administrativ",
-    "title": "Asistent Administrativ",
+    "url": "https://www.prohuman.ro/candidati/jobs/AsistentAdministrativ",
+    "title": "Asistent Administrativ - Limba Italiană",
     "company": "PROHUMAN APT S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:46:45.311Z",
+    "date": "2026-09-13T13:10:18.397Z",
     "status": "scraped",
     "tags": [
       "Administrare publică",
       "Competențe digitale"
     ],
     "matchPercentage": 70,
-    "reason": "Asistent administrativ - rol potrivit pentru cineva cu studii în administrație publică. Accesibil ca entry-level/junior."
+    "reason": "Rolul de asistent administrativ cu limba italiană se potrivește cu competențele de administrare publică și comunicare. Cunoștințele de limbi străine sunt un plus."
   },
   {
     "url": "https://www.leohr.ro/jobs/specialist-administrativ/428/",
@@ -466,47 +483,30 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-09T12:52:02.132Z",
-    "status": "scraped",
-    "tags": [
-      "Administrare publică",
-      "Teorii organizaționale"
-    ],
-    "matchPercentage": 70,
-    "reason": "Rol administrativ care implică procese organizaționale și suport decizional"
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/office-manager-financiar-administrativ/522/",
-    "title": "Office Manager (Financiar &amp; Administrativ)",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-09T12:45:11.296Z",
-    "status": "scraped",
-    "tags": [
-      "Finanțe publice",
-      "Administrare publică"
-    ],
-    "matchPercentage": 75,
-    "reason": "Combină finanțe publice și administrare — domenii principale de studiu"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/functionar-administrativ-370",
-    "title": "Functionar administrativ",
-    "company": "GARTNER EUROTRANS ROMANIA SRL",
-    "location": [
-      "Timișoara, Romania,Sanandrei, Judetul Timis, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:02:02.913Z",
+    "date": "2026-09-13T13:09:16.606Z",
     "status": "scraped",
     "tags": [
       "Administrare publică",
       "Comunicare în administrație"
     ],
-    "matchPercentage": 80,
-    "reason": "Funcționar administrativ — rolul ideal pentru profilul de administrație publică"
+    "matchPercentage": 70,
+    "reason": "Rolul de specialist administrativ este direct aliniat cu profilul de administrație publică și competențele dobândite în planul de învățământ FSPAC."
+  },
+  {
+    "url": "https://www.cni.ro/noutati/anunturi/-id-2138-cmsid-66",
+    "title": "Palatul Administrativ din Suceava - un simbol al județului Suceava, readus la viață!",
+    "company": "CNI INTERNATIONAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:07:30.556Z",
+    "status": "scraped",
+    "tags": [
+      "Administrare publică",
+      "Dezvoltare regională"
+    ],
+    "matchPercentage": 50,
+    "reason": "Lucrările la Palatul Administrativ din Suceava implică administrație publică și dezvoltare regională, dar rolul specific nu este clar definit și ar putea fi tehnic/construcții."
   }
 ]
