@@ -1,5 +1,87 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:51:05.695Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "proceduri administrative"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consilier în administrația publică fără experiență cerută, potrivire directă de domeniu și nivel."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:51:05.695Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "legislație"
+    ],
+    "matchPercentage": 95,
+    "reason": "Inspector de specialitate în administrația publică fără experiență cerută, potrivire directă."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-achizitii-sicap-specialist-expedieri-2",
+    "title": "Specialist achizitii SICAP / Specialist expedieri",
+    "company": "OFTAMEDICA SRL",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:46.571Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții publice"
+    ],
+    "matchPercentage": 95,
+    "reason": "Specialist achiziții SICAP se potrivește direct cu procedurile și sistemele de achiziții publice."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-220",
+    "title": "Consultant Fonduri Europene",
+    "company": "INCEPTA CONSULTING  SRL",
+    "location": [
+      "Aleea Barajul Iezeru 6A, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:08:06.373Z",
+    "status": "scraped",
+    "tags": [
+      "proiecte UE"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultant fonduri europene se potrivește direct cu achiziția și administrarea proiectelor UE."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-216",
+    "title": "Consultant Fonduri Europene",
+    "company": "ALVICOLI COMERŢ SRL",
+    "location": [
+      "Strada Decebal 82, 900178 Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:33.897Z",
+    "status": "scraped",
+    "tags": [
+      "proiecte UE"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultant fonduri europene corespunde direct competențelor privind proiectele UE."
+  },
+  {
     "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
     "title": "Consultant în fonduri europene",
     "company": "STARTUP WORKSPACE S.R.L.",
@@ -7,99 +89,77 @@
       "Marosvasarhely, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:38:58.510Z",
+    "date": "2026-10-11T15:05:10.012Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
+      "proiecte UE"
+    ],
+    "matchPercentage": 95,
+    "reason": "Rolul acoperă integral achizițiile publice, SEAP/SICAP și gestionarea proiectelor UE."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-219",
+    "title": "Consultant fonduri europene",
+    "company": "BUSINESS PROJECT CONSULTING SRL",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:58:57.295Z",
+    "status": "scraped",
+    "tags": [
+      "proiecte UE"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultant fonduri europene utilizează direct competențele privind proiectele UE."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-234",
+    "title": "Consultant Fonduri Europene",
+    "company": "BMH PROIECTE FONDURI EUROPENE S.R.L.",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:58:00.313Z",
+    "status": "scraped",
+    "tags": [
+      "proiecte UE"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultant fonduri europene se potrivește direct cu specializarea din planul de învățământ."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-achizitii-788",
+    "title": "Specialist achizitii",
+    "company": "NOVENTA SRL",
+    "location": [
+      "Utvin 433, Timișoara, Judetul Timis, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:09:14.745Z",
+    "status": "scraped",
+    "tags": [
       "achiziții publice"
     ],
     "matchPercentage": 90,
-    "reason": "Consultant fonduri europene nivel medior, gestionarea întregului ciclu al proiectelor UE și achiziții publice."
+    "reason": "Specialist achiziții se potrivește direct cu achizițiile publice și procedurile de achiziție."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-junior-mid-senior",
-    "title": "CONSULTANT FONDURI (Junior / Mid / Senior)",
-    "company": "SALT INN PRODUCTION SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "UP CIPTRONIC SRL",
     "location": [
-      "Iași, Romania"
+      "Bucuresti sectorul 1, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:38:11.389Z",
+    "date": "2026-10-11T15:00:19.718Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
       "proiecte UE"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri la nivel junior/mid, direct pe accesarea și gestionarea finanțărilor."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-specialist-proiectare",
-    "title": "Consultant fonduri europene/ Specialist proiectare",
-    "company": "S &amp; V CONSULTING SRL",
-    "location": [
-      "Bulevardul Dacia 97B, PARTER, Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:35:57.470Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "managementul proiectelor"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri europene cu componentă de proiectare, potrivit pe accesarea și administrarea proiectelor UE."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:34:52.680Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "proiecte UE"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consultanță în fonduri europene, activitate directă pe finanațări și proiecte."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-nerambursabile-79",
-    "title": "Consultant Fonduri Nerambursabile",
-    "company": "ADMINISTRATIV BUSINESS CONSULTING S.R.L.",
-    "location": [
-      "Bucuresti, Romania,, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:31:17.206Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "scrierea proiectelor"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri nerambursabile, direct pe scrierea cererilor și implementarea proiectelor."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-nerambursabile-36",
-    "title": "Consultant fonduri europene nerambursabile",
-    "company": "ANALITIQ MANAGEMENT S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:29:39.003Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "proiecte UE"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri europene nerambursabile, activitate directă pe proiecte finanțate."
+    "matchPercentage": 90,
+    "reason": "Domeniul fondurilor structurale și de coeziune se potrivește cu achiziția și administrarea proiectelor UE, iar nivelul de experiență este potrivit."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/consultant-accesare-fonduri-europenenerambursabile-qz6g8k",
@@ -109,31 +169,30 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:30:06.099Z",
+    "date": "2026-10-11T14:56:49.541Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "achiziții publice"
+      "proiecte UE"
     ],
-    "matchPercentage": 82,
-    "reason": "Consultanță accesare fonduri europene cu minimum 3 ani experiență, în limita nivelului mid acceptat."
+    "matchPercentage": 90,
+    "reason": "Consultant fonduri europene/nerambursabile corespunde domeniului, cu un nivel de experiență de 3 ani acceptabil."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3398875",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "AMARA TURISM SRL",
+    "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
+    "title": "Auditor public intern(în baza legii nr. 672/2002)",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Amara, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:26:17.261Z",
+    "date": "2026-10-11T15:01:12.783Z",
     "status": "scraped",
     "tags": [
-      "proceduri administrative",
-      "administrație publică"
+      "evaluarea programelor",
+      "managementul calității"
     ],
-    "matchPercentage": 80,
-    "reason": "Inspector de specialitate în administrația publică, nivel entry potrivit."
+    "matchPercentage": 90,
+    "reason": "Auditor public intern se potrivește direct cu evaluarea performanțelor și managementul calității în sectorul public, nivel potrivit."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3389609",
@@ -143,99 +202,64 @@
       "Voluntari, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:25:54.082Z",
+    "date": "2026-10-11T14:51:16.245Z",
     "status": "scraped",
     "tags": [
-      "proceduri administrative",
-      "administrație publică"
+      "administrație publică",
+      "proceduri administrative"
     ],
-    "matchPercentage": 80,
-    "reason": "Inspector de specialitate în administrația publică, nivel entry potrivit."
+    "matchPercentage": 85,
+    "reason": "Inspector de specialitate în administrația publică, domeniu direct și sub 3 ani experiență."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3387329",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "REGIA PUBLICA LOCALA A PADURILOR STEJARUL RA",
+    "url": "https://oferimdemunca.ro/job/cautam-agent-contractari-si-achizitii-responsabil-organizat-si-atent-la-detalii-pentru-gestionarea-bunurilor-si-serviciilor-companiei/",
+    "title": "AGENT CONTRACTARI SI ACHIZITII – Prestări servicii, birotică, echipamente de lucru și protocol",
+    "company": "PROMATERIS S.A.",
     "location": [
-      "Unteni, Romania"
+      "Buftea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:22:38.518Z",
+    "date": "2026-10-11T15:07:32.208Z",
     "status": "scraped",
     "tags": [
-      "proceduri administrative",
-      "administrație publică"
+      "achiziții publice"
     ],
-    "matchPercentage": 80,
-    "reason": "Consilier administrația publică, sub 3 ani experiență, sarcini administrative directe."
+    "matchPercentage": 85,
+    "reason": "Agent contractări și achiziții folosește procedurile administrative și achizițiile specifice sectorului public."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/expert-fonduri-europene-sector-public",
-    "title": "Expert Fonduri Europene – Sector Public",
-    "company": "ASOCIATIA ROMANA PENTRU METAPSYHHE ECHILIBRUM S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/expert-achizitii-publice-national",
+    "title": "Expert achizitii publice - national",
+    "company": "ISERA CONSULTING SERVICES SRL",
     "location": [
-      "Integral Business Center, Voluntari, Romania"
+      "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:39:33.186Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "sector public"
-    ],
-    "matchPercentage": 80,
-    "reason": "Expert fonduri europene în sectorul public, folosește competențe de proiecte UE."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/expert-achizitii-publice-328",
-    "title": "Expert achizitii publice",
-    "company": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE PENTRU MASINI SI INSTALATII DESTINATE AGRICULTURII SI INDUSTRIEI ALIMENTARE - INMA",
-    "location": [
-      "Bulevardul Ion Ionescu de la Brad, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:42:07.554Z",
+    "date": "2026-10-11T15:07:37.411Z",
     "status": "scraped",
     "tags": [
       "achiziții publice",
-      "sector public"
+      "proceduri de achiziție"
     ],
-    "matchPercentage": 80,
-    "reason": "Achiziții publice într-un institut național de cercetare, domeniu public direct relevant pentru competențele de achiziții și sector public."
+    "matchPercentage": 82,
+    "reason": "Expert în achiziții publice, sarcini directe de aplicare a procedurilor de achiziție, domeniu central al specializării."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-achizitii-publice-117",
-    "title": "Specialist achizitii publice",
-    "company": "DIM TRUST S.R.L.",
+    "url": "https://www.leohr.ro/jobs/expert-achizitii-publice/338/",
+    "title": "Expert Achizitii Publice",
+    "company": "LEOHR S.R.L.",
     "location": [
-      "Strada Ciprian Porumbescu 6, Timișoara, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:40:45.180Z",
+    "date": "2026-10-11T15:06:05.507Z",
     "status": "scraped",
     "tags": [
       "achiziții publice",
-      "proceduri achiziție"
+      "proceduri de achiziție"
     ],
-    "matchPercentage": 78,
-    "reason": "Specialist achiziții publice la nivel entry/mid, domeniu direct relevant pentru competențele de proceduri de achiziție."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-proiecte-finantari-nerambursabile",
-    "title": "CONSULTANT PROIECTE FINANTARI NERAMBURSABILE",
-    "company": "PERCONS EU S.R.L.",
-    "location": [
-      "Bucuresti, sector 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:34:48.454Z",
-    "status": "scraped",
-    "tags": [
-      "proiecte UE",
-      "fonduri nerambursabile"
-    ],
-    "matchPercentage": 78,
-    "reason": "Consultanță pe finanțări nerambursabile, direct pe achiziția și administrarea proiectelor UE."
+    "matchPercentage": 82,
+    "reason": "Poziție de expert achiziții publice, potrivire directă cu competențele de proceduri de achiziție publică."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/expert-achizitii-publice-bilancia",
@@ -245,115 +269,233 @@
       "Ploiesti,Corbeanca,Balotesti,Otopeni,Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:42:28.955Z",
+    "date": "2026-10-11T15:01:41.648Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții publice",
+      "proceduri de achiziție"
+    ],
+    "matchPercentage": 82,
+    "reason": "Expert achiziții publice, sarcini directe de achiziții și proceduri, potrivire ridicată."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271674/ABC-Human-Capital/Expert-achizitii-publice-si-licitatii-publice-(Cluj-Napoca)",
+    "title": "Expert achizitii publice si licitatii publice (Cluj-Napoca)",
+    "company": "ABC HUMAN CAPITAL SRL",
+    "location": [
+      "Floresti,Turda, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:01:33.270Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții publice",
+      "proceduri de achiziție"
+    ],
+    "matchPercentage": 82,
+    "reason": "Expert achiziții și licitații publice, potrivire directă cu competențele de achiziții publice."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/public-procurement-specialist-75",
+    "title": "Public procurement specialist",
+    "company": "GODMOTHER SRL",
+    "location": [
+      "Strada Dr. Burghelea, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:04.626Z",
     "status": "scraped",
     "tags": [
       "achiziții publice",
       "proceduri achiziție"
     ],
-    "matchPercentage": 75,
-    "reason": "Post de expert achiziții publice care folosește direct competențele de achiziții publice și proceduri de achiziție, fără cerințe explicite de experiență îndelungată."
+    "matchPercentage": 80,
+    "reason": "Specialist achiziții publice, corespunde direct competenței de achiziții și proceduri publice."
   },
   {
-    "url": "https://multijobs.ro/job/consilier-institutii-publice/5928",
-    "title": "CONSILIER INSTITUTII PUBLICE",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-in-achizitii-publice-ofertare",
+    "title": "Specialist în achiziții publice - Ofertare",
+    "company": "PRAGOSA ROMANIA SRL",
     "location": [
-      "Botosani, Romania"
+      "JUD. PRAHOVA, SAT NEGOIESTI, COM. BRAZI, STR. PIATRA CRAIULUI, NR.13B, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:42:30.128Z",
-    "status": "scraped",
-    "tags": [
-      "administrație publică",
-      "instituții publice"
-    ],
-    "matchPercentage": 72,
-    "reason": "Consilier pentru instituții publice folosește direct competențele de administrație publică la nivel entry/mid."
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-expert-achizitii-publice-m3zlEx",
-    "title": "Expert achizitii publice",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:39:35.238Z",
+    "date": "2026-10-11T15:01:12.783Z",
     "status": "scraped",
     "tags": [
       "achiziții publice",
-      "legislație"
+      "ofertare"
     ],
-    "matchPercentage": 72,
-    "reason": "Post de expert achiziții publice în sector privat, domeniu direct relevant pentru competențele de achiziții și legislație."
+    "matchPercentage": 78,
+    "reason": "Specialist achiziții publice/ofertare, relevant direct pentru procedurile de achiziție publică."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-consultanta-proiecte",
-    "title": "Specialist consultanță proiecte",
-    "company": "NIRAL TIME S.R.L.",
+    "url": "https://multijobs.ro/job/specialist-licitatii-publice/3964",
+    "title": "Specialist licitații publice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Strada Magura, Focsani, Romania"
+      "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:35:21.362Z",
+    "date": "2026-10-11T15:10:21.081Z",
     "status": "scraped",
     "tags": [
-      "managementul proiectelor",
-      "proiecte UE"
+      "achiziții publice",
+      "proceduri administrative"
     ],
-    "matchPercentage": 72,
-    "reason": "Consultanță pe proiecte, folosește direct competențele de management și administrare a proiectelor."
+    "matchPercentage": 75,
+    "reason": "Specialist licitații publice folosește direct competențele de achiziții publice și proceduri de achiziție, cu nivel compatibil."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/expert-consultant-proiecte-1",
-    "title": "EXPERT/CONSULTANT proiecte",
-    "company": "ASOCIATIA GRUPULUI DE PRODUCATORI CONSORTIU DE DEZVOLTARE RURALA BORCEA-JEGALIA SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/business-consultant-public-sector",
+    "title": "Business Consultant Public Sector",
+    "company": "TOTAL SOFT SRL",
     "location": [
-      "Iași, Romania"
+      "Voluntari, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:34:08.816Z",
+    "date": "2026-10-11T14:52:25.851Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare regională",
-      "managementul proiectelor"
+      "e-guvernare",
+      "digitalizarea serviciilor publice"
     ],
     "matchPercentage": 70,
-    "reason": "Expert proiecte pentru dezvoltare rurală/locală, se potrivește cu dezvoltarea regională și managementul proiectelor."
+    "reason": "Business Consultant Public Sector are relevanță parțială pentru e-guvernare/digitalizare, nivel probabil potrivit."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272784/ISIC-Romania/Responsabil-parteneriate-și-dezvoltare-proiecte-pentru-tineri",
-    "title": "Responsabil parteneriate și dezvoltare proiecte pentru tineri",
-    "company": "TRIOPT ROMANIA S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/economist-contabil-referent-resurse-umane-1",
+    "title": "ECONOMIST/CONTABIL/REFERENT RESURSE UMANE",
+    "company": "GAZ VEST SA",
+    "location": [
+      "Strada Prunului 129, Arad, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:26.125Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "resurse umane"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de economist/contabil/referent resurse umane într-o companie de stat, folosind competențe de contabilitate și administrare a resurselor umane în sectorul public."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3337316",
+    "title": "REFERENT DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "ELECTROCENTRALE BUCURESTI SA",
+    "location": [
+      "Bucuresti sectorul 6, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:51:59.023Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "proceduri administrative"
+    ],
+    "matchPercentage": 65,
+    "reason": "Referent de specialitate în administrația publică, domeniu direct, dar cere 3-5 ani experiență la limita nivelului mediu."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-achizitii-publice",
+    "title": "Asistent Manager - Achizitii Publice",
+    "company": "FLAROM ADVERTISING SRL",
+    "location": [
+      "contact@flarom.ro, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:57:39.394Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții publice"
+    ],
+    "matchPercentage": 63,
+    "reason": "Asistent manager în achiziții publice, parțial potrivit prin atribuții de suport în achiziții publice."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/economist-junior-financiar-contabil",
+    "title": "Economist Junior – Financiar - Contabil",
+    "company": "EMS FLOOR SYSTEMS S.R.L.",
+    "location": [
+      "Turda, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:09:27.102Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "management financiar"
+    ],
+    "matchPercentage": 63,
+    "reason": "Economist junior în financiar-contabilitate, nivel potrivit și competențe directe de contabilitate și management financiar."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271573/ABC-Human-Capital/Inginer-eligibilitate-&amp;-licitații-publice-–-București",
+    "title": "Inginer eligibilitate &amp; licitații publice – București",
+    "company": "ABC HUMAN CAPITAL SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:42:47.041Z",
-    "status": "scraped",
-    "tags": [
-      "managementul proiectelor",
-      "sector ONG"
-    ],
-    "matchPercentage": 65,
-    "reason": "Dezvoltare de proiecte și parteneriate pentru tineri în zona non-profit, potrivire parțială pe managementul proiectelor."
-  },
-  {
-    "url": "https://multijobs.ro/job/ofertare-licitatii-publice-in-domeniul-constructiilor/6496",
-    "title": "Ofertare licitatii publice in domeniul constructiilor",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Satu Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:41:07.762Z",
+    "date": "2026-10-11T15:01:33.270Z",
     "status": "scraped",
     "tags": [
       "achiziții publice",
       "licitații"
     ],
     "matchPercentage": 62,
-    "reason": "Ofertare licitații publice folosește competențe de achiziții publice, dar contextul tehnic de construcții face potrivirea doar parțială."
+    "reason": "Inginer eligibilitate și licitații publice, parțial relevant prin pregătirea documentației de achiziție/licitație."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
+    "title": "Analist Raportare Financiară – Ploiești",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:21:30.453Z",
+    "status": "scraped",
+    "tags": [
+      "management financiar",
+      "finanțe publice"
+    ],
+    "matchPercentage": 62,
+    "reason": "Analist raportare financiară folosește competențe de management financiar și raportare la un nivel accesibil."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/junior-payroll-specialist-det-luni-f-m/99247426",
+    "title": "Junior Payroll Specialist - det.18 luni (f/m)",
+    "company": "URBICA SEDIUL CENTRAL S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:09:07.924Z",
+    "status": "scraped",
+    "tags": [
+      "management financiar",
+      "resurse umane"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol junior de payroll care valorifică cunoștințe financiar-contabile și interpretarea legislației, potrivire parțială de domeniu."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/economist-contabil-junior-56",
+    "title": "Economist Contabil Junior",
+    "company": "SYNAPSA CLOUD SOLUTIONS S.R.L.",
+    "location": [
+      "Strada Traian Popovici 79-91, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:09:02.973Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "management financiar"
+    ],
+    "matchPercentage": 62,
+    "reason": "Poziție junior de contabilitate care folosește competențe financiar-contabile, dar în sector privat, potrivire parțială."
   }
 ]
