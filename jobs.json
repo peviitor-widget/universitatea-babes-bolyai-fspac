@@ -1,1 +1,205 @@
-[]
+[
+  {
+    "url": "https://www.teamland.ro/apply.php?id=391#content",
+    "title": "Specialist Achizitii Publice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:29.123Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții publice",
+      "proceduri de achiziție"
+    ],
+    "matchPercentage": 80,
+    "reason": "Postul vizează direct achizițiile publice și procedurile de licitație din SEAP/SICAP, deși cere 2 ani experiență și studii cu profil tehnic."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-licitatii-publice-34",
+    "title": "Specialist Licitatii Publice",
+    "company": "IULIAN FOOD&amp;FOOD SRL",
+    "location": [
+      "Strada Arcului",
+      "Magurele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:39.213Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții publice",
+      "proceduri de achiziție"
+    ],
+    "matchPercentage": 72,
+    "reason": "Domeniul licitațiilor publice se potrivește perfect cu competențele de achiziții, dar anunțul nu precizează nivelul de experiență cerut."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-recrutare-si-evaluare-perioada-determinata/6573",
+    "title": "Specialist Recrutare si Evaluare perioada determinata",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:15.074Z",
+    "status": "scraped",
+    "tags": [
+      "managementul resurselor umane",
+      "evaluarea performanțelor"
+    ],
+    "matchPercentage": 68,
+    "reason": "Recrutarea și evaluarea folosesc direct managementul resurselor umane și evaluarea performanței, la nivel entry-level."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/Ewnyvpdx24",
+    "title": "Specialist Achizitii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:59:16Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții",
+      "negociere"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proceduri de achiziție (RFI/RFQ/RFP), evaluare de oferte și negociere folosesc direct competența de achiziții și proceduri."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-contabilitate-primara-165",
+    "title": "CONTABIL – CONTABILITATE PRIMARĂ",
+    "company": "AXIVEN PEST CONTROL SRL",
+    "location": [
+      "Soseaua Oltenitei 204",
+      "Popesti-Leordeni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:33.895Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate"
+    ],
+    "matchPercentage": 62,
+    "reason": "Contabilitate primară folosește direct competența de contabilitate și management financiar, la nivel entry."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-contabil-junior-10",
+    "title": "Angajam contabil junior",
+    "company": "DUMITRESCU C. ANA-MARIA PERSOANĂ FIZICĂ AUTORIZATĂ",
+    "location": [
+      "Brașov",
+      "Romania",
+      "București",
+      "Romania",
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:32.991Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "finanțe publice"
+    ],
+    "matchPercentage": 62,
+    "reason": "Poziție junior de contabilitate care folosește direct competențele de management financiar și contabilitate, deși în sector privat."
+  },
+  {
+    "url": "https://cariere.lidl.ro/jobs/junior-economist-cost-accounting-f-m-bucuresti-758592",
+    "title": "Junior Economist - Cost Accounting (f/m)",
+    "company": "LIDL DISCOUNT SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:06.972Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "management financiar"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol junior de contabilitate pe costuri care se sprijină direct pe competențele de management financiar și contabilitate."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-contabilitate-primara-169",
+    "title": "Contabil - contabilitate primara",
+    "company": "INTERNATIONAL BUSINESS TRANSPORT SA",
+    "location": [
+      "Strada Oituz 11",
+      "Arad",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:25.571Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de contabil entry-level, potrivit parțial cu competențele de contabilitate și finanțe."
+  },
+  {
+    "url": "https://www.gaminvest.ro/cariere.html#post-4",
+    "title": "Contabil nivel mediu - birou de contabilitate Gaminvest",
+    "company": "GAMINVEST SRL",
+    "location": [
+      "Oradea"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:32:13.424Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate"
+    ],
+    "matchPercentage": 60,
+    "reason": "Contabil nivel mediu - contabilitatea este o competență tehnică de specialitate a planului de învățământ."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/referent-resurse-umane-205",
+    "title": "REFERENT RESURSE UMANE",
+    "company": "IRIDEX GROUP SALUBRIZARE SRL",
+    "location": [
+      "Drumul Poiana Trestiei",
+      "Nr 17-27",
+      "Sector 1",
+      "Rampa Chiajna",
+      "Soseaua Bucuresti-Ploiesti Nr.9-13",
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:57.374Z",
+    "status": "scraped",
+    "tags": [
+      "managementul resurselor umane"
+    ],
+    "matchPercentage": 60,
+    "reason": "Referent HR implică administrarea resurselor umane, competență relevantă, dar în sector privat și fără descriere detaliată."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
+    "title": "Internship Program",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "management financiar",
+      "contabilitate"
+    ],
+    "matchPercentage": 60,
+    "reason": "Program de internship care include explicit arii de contabilitate, finanțe și administrație de afaceri, la nivel de intrare."
+  }
+]
