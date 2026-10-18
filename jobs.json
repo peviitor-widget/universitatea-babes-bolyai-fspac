@@ -1,205 +1,288 @@
 [
   {
-    "url": "https://www.teamland.ro/apply.php?id=391#content",
-    "title": "Specialist Achizitii Publice",
-    "company": "TEAMLAND SRL",
+    "url": "https://oferimdemunca.ro/job/specialist-achizitii-publice/",
+    "title": "Specialist achiziții publice",
+    "company": "INFODIF SOLUTIONS S.R.L.",
     "location": [
-      "Bucuresti",
+      "Constanţa",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:29.123Z",
+    "date": "2026-10-17T12:12:45.159Z",
     "status": "scraped",
     "tags": [
       "achiziții publice",
-      "proceduri de achiziție"
+      "SEAP"
     ],
-    "matchPercentage": 80,
-    "reason": "Postul vizează direct achizițiile publice și procedurile de licitație din SEAP/SICAP, deși cere 2 ani experiență și studii cu profil tehnic."
+    "matchPercentage": 90,
+    "reason": "Achizițiile publice, SEAP și legislația specifică se potrivesc direct cu competențele de specialitate, iar experiența de minimum 2 ani este în intervalul acceptat."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-licitatii-publice-34",
-    "title": "Specialist Licitatii Publice",
-    "company": "IULIAN FOOD&amp;FOOD SRL",
+    "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
+    "title": "Consultant în fonduri europene",
+    "company": "STARTUP WORKSPACE S.R.L.",
     "location": [
-      "Strada Arcului",
-      "Magurele",
+      "Marosvasarhely",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:02:39.213Z",
+    "date": "2026-10-17T11:59:22.731Z",
     "status": "scraped",
     "tags": [
-      "achiziții publice",
-      "proceduri de achiziție"
+      "proiecte UE",
+      "achiziții publice"
     ],
-    "matchPercentage": 72,
-    "reason": "Domeniul licitațiilor publice se potrivește perfect cu competențele de achiziții, dar anunțul nu precizează nivelul de experiență cerut."
+    "matchPercentage": 88,
+    "reason": "Gestionarea ciclului complet al proiectelor cu finanțare europeană și achizițiile publice folosește direct competențele de specialitate, la nivel medior acceptat."
   },
   {
-    "url": "https://multijobs.ro/job/specialist-recrutare-si-evaluare-perioada-determinata/6573",
-    "title": "Specialist Recrutare si Evaluare perioada determinata",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
     "location": [
-      "Bucuresti",
+      "Municipiul ramnicu valcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:15.074Z",
+    "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "managementul resurselor umane",
-      "evaluarea performanțelor"
+      "administrație publică",
+      "redactare acte administrative"
     ],
-    "matchPercentage": 68,
-    "reason": "Recrutarea și evaluarea folosesc direct managementul resurselor umane și evaluarea performanței, la nivel entry-level."
+    "matchPercentage": 82,
+    "reason": "Consilier în administrație publică, nivel fără experiență, potrivire directă cu domeniul și competențele."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/Ewnyvpdx24",
-    "title": "Specialist Achizitii",
-    "company": "ELECTROGRUP SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
     "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-16T10:59:16Z",
-    "status": "scraped",
-    "tags": [
-      "achiziții",
-      "negociere"
-    ],
-    "matchPercentage": 65,
-    "reason": "Proceduri de achiziție (RFI/RFQ/RFP), evaluare de oferte și negociere folosesc direct competența de achiziții și proceduri."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-contabilitate-primara-165",
-    "title": "CONTABIL – CONTABILITATE PRIMARĂ",
-    "company": "AXIVEN PEST CONTROL SRL",
-    "location": [
-      "Soseaua Oltenitei 204",
-      "Popesti-Leordeni",
+      "Municipiul ramnicu valcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:33.895Z",
+    "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "contabilitate"
+      "administrație publică",
+      "interpretare legislație"
     ],
-    "matchPercentage": 62,
-    "reason": "Contabilitate primară folosește direct competența de contabilitate și management financiar, la nivel entry."
+    "matchPercentage": 82,
+    "reason": "Inspector de specialitate în administrație publică, nivel fără experiență, potrivire directă cu profilul."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-contabil-junior-10",
-    "title": "Angajam contabil junior",
-    "company": "DUMITRESCU C. ANA-MARIA PERSOANĂ FIZICĂ AUTORIZATĂ",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420849",
+    "title": "AUDITOR INTERN ÎN SECTORUL PUBLIC",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:13:19.965Z",
+    "status": "scraped",
+    "tags": [
+      "finanțe publice",
+      "evaluare instituțională"
+    ],
+    "matchPercentage": 82,
+    "reason": "Audit în sectorul public cere cunoașterea legislației și evaluarea performanței instituționale, la nivel de intern cu 0 ani experiență."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
+    "title": "Consultant scriere proiecte - Remote",
+    "company": "SYREM CONSULT S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:18:49.570Z",
+    "status": "scraped",
+    "tags": [
+      "proiecte UE",
+      "scriere proiecte"
+    ],
+    "matchPercentage": 75,
+    "reason": "Întocmirea documentației pentru accesarea fondurilor se bazează pe scrierea de proiecte și administrarea proiectelor cu finanțare."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-achizitii-publice/3308",
+    "title": "EXPERT ACHIZITII PUBLICE",
+    "company": "D.B. TECHNOLIGHT SRL",
     "location": [
       "Brașov",
-      "Romania",
-      "București",
-      "Romania",
-      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:32.991Z",
+    "date": "2026-10-17T12:20:41.370Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
-      "finanțe publice"
+      "achiziții publice",
+      "proceduri de achiziție"
     ],
-    "matchPercentage": 62,
-    "reason": "Poziție junior de contabilitate care folosește direct competențele de management financiar și contabilitate, deși în sector privat."
+    "matchPercentage": 70,
+    "reason": "Achizițiile publice reprezintă o competență centrală a programului, dar lipsa descrierii și titlul de \"expert\" lasă incert nivelul de experiență cerut."
   },
   {
-    "url": "https://cariere.lidl.ro/jobs/junior-economist-cost-accounting-f-m-bucuresti-758592",
-    "title": "Junior Economist - Cost Accounting (f/m)",
-    "company": "LIDL DISCOUNT SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
     "location": [
-      "București",
+      "Municipiul tulcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:06.972Z",
+    "date": "2026-10-17T12:18:54.221Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
+      "administrație publică",
+      "interpretare legislație"
+    ],
+    "matchPercentage": 68,
+    "reason": "Inspector în administrație publică la o instituție publică, nivel sub 3 ani, dar responsabilitățile tehnice sunt doar parțial aliniate competențelor."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272623/SCHAEFFLER/Internship-Project-Management-Office",
+    "title": "Internship Project Management Office",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:24.040Z",
+    "status": "scraped",
+    "tags": [
+      "managementul proiectelor",
+      "scriere de rapoarte"
+    ],
+    "matchPercentage": 66,
+    "reason": "Internship într-un PMO unde coordonarea și raportarea proiectelor folosește direct managementul proiectelor și scrierea de rapoarte, deși în sectorul privat."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
+    "title": "Analist Raportare Financiară – Ploiești",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:41.422Z",
+    "status": "scraped",
+    "tags": [
+      "management financiar și finanțe publice",
+      "luarea deciziilor bazate pe date"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analiza raportare financiară se sprijină pe competențele de management financiar, finanțe și decizii bazate pe date."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/junior-economist-travel-expense-det-18-lunifm/99468",
+    "title": "Junior Economist - Travel Expense det. 18 luni(f/m)",
+    "company": "LIDL ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:20.342Z",
+    "status": "scraped",
+    "tags": [
+      "management financiar",
+      "elaborarea procedurilor"
+    ],
+    "matchPercentage": 63,
+    "reason": "Procesarea deconturilor și verificarea documentelor financiare conform politicilor și legislației folosește direct competențe de management financiar și aplicarea procedurilor."
+  },
+  {
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Metroffice-Bucharest-2-Romania/Junior-Cashback-Analyst_R120753",
+    "title": "Junior Cashback Analyst",
+    "company": "SAMSUNG SDS GSCL ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:07.185Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea procedurilor",
       "management financiar"
     ],
     "matchPercentage": 62,
-    "reason": "Rol junior de contabilitate pe costuri care se sprijină direct pe competențele de management financiar și contabilitate."
+    "reason": "Elaborarea de SOP-uri, verificarea documentelor, procesarea plăților și rapoarte sunt activități de administrare financiară aliniate competențelor tale."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/contabil-contabilitate-primara-169",
-    "title": "Contabil - contabilitate primara",
-    "company": "INTERNATIONAL BUSINESS TRANSPORT SA",
-    "location": [
-      "Strada Oituz 11",
-      "Arad",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:25.571Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate"
-    ],
-    "matchPercentage": 60,
-    "reason": "Rol de contabil entry-level, potrivit parțial cu competențele de contabilitate și finanțe."
-  },
-  {
-    "url": "https://www.gaminvest.ro/cariere.html#post-4",
-    "title": "Contabil nivel mediu - birou de contabilitate Gaminvest",
-    "company": "GAMINVEST SRL",
-    "location": [
-      "Oradea"
-    ],
-    "salary": null,
-    "date": "2026-10-16T10:32:13.424Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate"
-    ],
-    "matchPercentage": 60,
-    "reason": "Contabil nivel mediu - contabilitatea este o competență tehnică de specialitate a planului de învățământ."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/referent-resurse-umane-205",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3415328",
     "title": "REFERENT RESURSE UMANE",
-    "company": "IRIDEX GROUP SALUBRIZARE SRL",
+    "company": "PROFESSIONAL HR SRL",
     "location": [
-      "Drumul Poiana Trestiei",
-      "Nr 17-27",
-      "Sector 1",
-      "Rampa Chiajna",
-      "Soseaua Bucuresti-Ploiesti Nr.9-13",
-      "Bucuresti",
+      "Galati",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:02:57.374Z",
+    "date": "2026-10-17T12:15:46.968Z",
     "status": "scraped",
     "tags": [
       "managementul resurselor umane"
     ],
     "matchPercentage": 60,
-    "reason": "Referent HR implică administrarea resurselor umane, competență relevantă, dar în sector privat și fără descriere detaliată."
+    "reason": "Rol entry-level de administrare/resurse umane, domeniu parțial relevant prin managementul RR.UU., dar în sector privat."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
-    "title": "Internship Program",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.prohuman.ro/candidati/jobs/inspector-hr",
+    "title": "Inspector resurse umane",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
-      "Timișoara"
+      "Bucuresti",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T11:06:47.945Z",
+    "date": "2026-10-17T12:14:36.121Z",
     "status": "scraped",
     "tags": [
-      "management financiar",
-      "contabilitate"
+      "managementul resurselor umane",
+      "proceduri administrative"
     ],
     "matchPercentage": 60,
-    "reason": "Program de internship care include explicit arii de contabilitate, finanțe și administrație de afaceri, la nivel de intrare."
+    "reason": "Inspector RU cu max 2 ani experiență; presupune elaborarea și aplicarea de proceduri interne, domeniu doar parțial relevant."
+  },
+  {
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100036D-p-b2676d2a46c230dbb1f2cdf117a51f14/internship-hr-recruitment-8h-tires",
+    "title": "Internship HR Recruitment (8h) - Tires",
+    "company": "CONTINENTAL SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:20.064Z",
+    "status": "scraped",
+    "tags": [
+      "managementul resurselor umane"
+    ],
+    "matchPercentage": 60,
+    "reason": "Internship în resurse umane cu activități de recrutare, baze de date și rapoarte HR, relevante pentru competența de management al resurselor umane."
+  },
+  {
+    "url": "https://multijobs.ro/job/contabil-studii-superioare/2956",
+    "title": "CONTABIL - Studii superioare",
+    "company": "TEAM REAL ESTATE DEVELOPMENT SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:38.887Z",
+    "status": "scraped",
+    "tags": [
+      "contabilitate",
+      "management financiar"
+    ],
+    "matchPercentage": 60,
+    "reason": "Poziție de contabilitate care se bazează direct pe competența de contabilitate și management financiar, însă în sector privat (real estate), deci doar potrivire parțială."
   }
 ]
