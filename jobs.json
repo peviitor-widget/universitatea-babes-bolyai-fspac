@@ -1,57 +1,21 @@
 [
   {
-    "url": "https://multijobs.ro/job/expert-achizitii-publice/3308",
-    "title": "EXPERT ACHIZITII PUBLICE",
-    "company": "D.B. TECHNOLIGHT SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420849",
+    "title": "AUDITOR INTERN ÎN SECTORUL PUBLIC",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Brașov",
+      "Resita",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
+    "date": "2026-10-17T12:13:19.965Z",
     "status": "scraped",
     "tags": [
-      "achiziții publice",
-      "proceduri"
+      "audit public",
+      "finanțe publice"
     ],
     "matchPercentage": 90,
-    "reason": "Achiziții publice - direct relevant pentru competențele de specialitate."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
-    "title": "Consultant Fonduri Europene",
-    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:14.906Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "proiecte UE"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consultant fonduri europene, domeniu direct relevant"
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
-    "title": "Consultant Fonduri Europene – București, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:59.558Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "proiecte UE"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consultant fonduri europene, domeniu direct relevant"
+    "reason": "Audit intern în sectorul public, fără experiență necesară, folosește direct competențele de finanțe publice și evaluare instituțională."
   },
   {
     "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
@@ -65,11 +29,11 @@
     "date": "2026-10-17T12:18:49.570Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "scriere proiecte"
+      "scriere proiecte",
+      "fonduri UE"
     ],
     "matchPercentage": 88,
-    "reason": "Scriere proiecte fonduri europene, domeniu relevant"
+    "reason": "Sarcinile de întocmire a documentației pentru fonduri folosesc direct competențele de scriere și administrare a proiectelor UE."
   },
   {
     "url": "https://multijobs.ro/job/ofertare-licitatii-publice-in-domeniul-constructiilor/6496",
@@ -83,65 +47,29 @@
     "date": "2026-10-17T12:18:20.108Z",
     "status": "scraped",
     "tags": [
-      "achiziții publice",
+      "achiziții",
       "licitații"
     ],
     "matchPercentage": 85,
-    "reason": "Ofertare pentru licitații publice - direct relevant pentru achiziții publice."
+    "reason": "Ofertare licitații publice se potrivește direct competențelor de achiziții publice, nivel acceptabil."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
-    "title": "Specialist fonduri europene",
-    "company": "BEST SMART CONSULTING SRL",
+    "url": "https://oferimdemunca.ro/job/specialist-achizitii-publice/",
+    "title": "Specialist achiziții publice",
+    "company": "INFODIF SOLUTIONS S.R.L.",
     "location": [
-      "Mioveni",
+      "Constanţa",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
+    "date": "2026-10-17T12:12:45.159Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "proiecte UE"
+      "achiziții publice",
+      "SEAP"
     ],
     "matchPercentage": 85,
-    "reason": "Specialist fonduri europene, potrivit pentru junior"
-  },
-  {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:04:11.925Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "proiecte UE"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consultanță fonduri europene, domeniu relevant"
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420849",
-    "title": "AUDITOR INTERN ÎN SECTORUL PUBLIC",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:13:19.965Z",
-    "status": "scraped",
-    "tags": [
-      "audit",
-      "administrație"
-    ],
-    "matchPercentage": 85,
-    "reason": "Auditor intern în sectorul public, nivel entry-level/fără experiență, potrivit"
+    "reason": "Specialist achiziții publice - domeniu direct potrivit, 2 ani experiență acceptabil."
   },
   {
     "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
@@ -158,8 +86,8 @@
       "fonduri europene",
       "achiziții publice"
     ],
-    "matchPercentage": 80,
-    "reason": "Consultant fonduri europene nivel medior, relevant"
+    "matchPercentage": 85,
+    "reason": "Postul medior acoperă ciclul proiectelor europene, inclusiv achiziții publice și raportare, fiind direct relevant."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/business-consultant-public-sector",
@@ -173,83 +101,47 @@
     "date": "2026-10-17T12:12:15.111Z",
     "status": "scraped",
     "tags": [
-      "consultanță",
-      "sector public"
+      "sector public",
+      "e-guvernare"
     ],
-    "matchPercentage": 80,
-    "reason": "Business consultant pentru sectorul public, potrivit domeniului"
+    "matchPercentage": 82,
+    "reason": "Consultant pentru sectorul public, rol potrivit nivelului de absolvent și competențelor de management public și digitalizare."
   },
   {
-    "url": "https://multijobs.ro/job/procedura-de-selectie-pentru-cele-5-posturi-vacante-de-administrator-in-ca-al-sc-administrarea-domeniului-public-gherla-sa-se-organizeaza-cu-respectarea-prevederilor-oug-nr-109-2011-guvernanta-corporativa-a-intreprinderilor-publice-si-a-hg-639-2/4243",
-    "title": "Procedura de selecție pentru cele 5 posturi vacante de administrator în C.A. al S.C. ADMINISTRAREA DOMENIULUI PUBLIC GHERLA S.A. se organizează cu respectarea prevederilor O.U.G. nr 109/2011 guvernanț",
-    "company": "ADMINISTRAREA DOMENIULUI PUBLIC GHERLA SA",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
+    "title": "Specialist fonduri europene",
+    "company": "BEST SMART CONSULTING SRL",
     "location": [
-      "Gherla",
+      "Mioveni",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:05:44.990Z",
+    "date": "2026-10-17T12:20:41.370Z",
     "status": "scraped",
     "tags": [
-      "guvernanță",
-      "întreprinderi publice"
+      "fonduri europene",
+      "management proiecte"
+    ],
+    "matchPercentage": 76,
+    "reason": "Postul vizează direct accesarea și administrarea fondurilor europene, activitate potrivită competențelor de proiecte UE."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/oGtJRnEtGr",
+    "title": "Economist (Contract pe perioada determinata – 2 ani - on-site)",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:44:47Z",
+    "status": "scraped",
+    "tags": [
+      "finanțe",
+      "contabilitate"
     ],
     "matchPercentage": 75,
-    "reason": "Guvernanță corporativă întreprinderi publice, potrivit parțial"
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420130",
-    "title": "FORMATOR",
-    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:34.311Z",
-    "status": "scraped",
-    "tags": [
-      "formare",
-      "management"
-    ],
-    "matchPercentage": 72,
-    "reason": "Formator cu <3 ani experiență, relevant pentru formare în sectorul public"
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420100",
-    "title": "FORMATOR",
-    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:34.311Z",
-    "status": "scraped",
-    "tags": [
-      "formare",
-      "management"
-    ],
-    "matchPercentage": 72,
-    "reason": "Formator cu <3 ani experiență, relevant pentru formare în sectorul public"
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420140",
-    "title": "FORMATOR",
-    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:34.311Z",
-    "status": "scraped",
-    "tags": [
-      "formare",
-      "management"
-    ],
-    "matchPercentage": 72,
-    "reason": "Formator cu <3 ani experiență, relevant pentru formare în sectorul public"
+    "reason": "Economist - parțial relevant pentru finanțe publice/buget, nivel acceptabil."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
@@ -264,10 +156,10 @@
     "status": "scraped",
     "tags": [
       "proceduri administrative",
-      "management public"
+      "acte administrative"
     ],
-    "matchPercentage": 70,
-    "reason": "Titlul este direct din administrația publică și nivelul este fără experiență, deși descrierea sarcinilor lipsește."
+    "matchPercentage": 72,
+    "reason": "Titlul de consilier în administrația publică și nivelul fără experiență corespund domeniului și nivelului căutat, dar lipsa descrierii sarcinilor și angajatorul privat fac potrivirea doar parțială."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
@@ -284,135 +176,60 @@
       "proceduri administrative",
       "acte administrative"
     ],
-    "matchPercentage": 70,
-    "reason": "Titlul de inspector în administrația publică și nivelul fără experiență corespund, dar lipsesc detaliile sarcinilor."
+    "matchPercentage": 72,
+    "reason": "Titlul de inspector în administrația publică și nivelul fără experiență corespund domeniului și nivelului căutat, dar lipsa descrierii sarcinilor și angajatorul privat fac potrivirea doar parțială."
   },
   {
-    "url": "https://www.gaminvest.ro/cariere.html#post-4",
-    "title": "Contabil nivel mediu - birou de contabilitate Gaminvest",
-    "company": "GAMINVEST SRL",
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Oradea",
+      "Resita",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T10:54:06.726Z",
+    "date": "2026-10-17T12:20:33.969Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
-      "finanțe"
+      "fonduri europene",
+      "management proiecte"
     ],
-    "matchPercentage": 70,
-    "reason": "Contabilitate primară în context general, potrivit parțial pentru finanțe publice"
+    "matchPercentage": 72,
+    "reason": "Accesarea fondurilor europene folosește direct competențele de proiecte UE și management de proiect."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/contabil-junior-contabilitate-primara-gestiune-saga/99249558",
-    "title": "Contabil Junior| Contabilitate Primara / Gestiune| SAGA",
-    "company": "KRONSTEF SRL",
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
     "location": [
-      "Bucuresti",
-      "Mogosoaia",
+      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:21:18.987Z",
+    "date": "2026-10-17T12:04:11.925Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
-      "finanțe"
+      "fonduri europene",
+      "management proiecte"
     ],
     "matchPercentage": 70,
-    "reason": "Contabilitate primară în context general, potrivit parțial pentru finanțe publice"
+    "reason": "Consultanța în fonduri europene folosește direct competențele de proiecte UE și management de proiect."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-6qmqjv",
-    "title": "OPERATOR CONTABILITATE PRIMARĂ / GESTIUNE Buftea",
-    "company": "AKERO INDUSTRY S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133017020-working-student-in-controlling-area",
+    "title": "Working Student in Controlling Area",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:20:56.264Z",
+    "date": "2026-10-24T10:40:08.109Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
-      "finanțe"
+      "management financiar",
+      "evaluarea performanțelor"
     ],
     "matchPercentage": 68,
-    "reason": "Contabilitate primară, potrivit parțial pentru finanțe/buget public"
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/operator-contabilitate-primara-gestiune-buftea-5p5pkp",
-    "title": "OPERATOR CONTABILITATE PRIMARĂ / GESTIUNE Buftea",
-    "company": "AKERO INDUSTRY S.R.L.",
-    "location": [
-      "Buftea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:56.264Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate",
-      "finanțe"
-    ],
-    "matchPercentage": 68,
-    "reason": "Contabilitate primară, potrivit parțial pentru finanțe/buget public"
-  },
-  {
-    "url": "https://multijobs.ro/job/contabilitate-primara/1477",
-    "title": "Contabilitate primara",
-    "company": "D.B. TECHNOLIGHT SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate",
-      "finanțe"
-    ],
-    "matchPercentage": 68,
-    "reason": "Contabilitate primară, potrivit parțial pentru finanțe/buget public"
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
-    "location": [
-      "Municipiul tulcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:54.221Z",
-    "status": "scraped",
-    "tags": [
-      "proceduri administrative",
-      "acte administrative"
-    ],
-    "matchPercentage": 65,
-    "reason": "Post public de inspector cu experiență sub 3 ani, dar sarcinile descrise sunt parțial tehnice/operaționale, nu exclusiv de administrație publică."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/secretar-secretara/99249866",
-    "title": "Secretar / Secretara",
-    "company": "BIROU DE CONSULTANTA LMA SRL",
-    "location": [
-      "Ploiesti",
-      "Campina",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:02:25.444Z",
-    "status": "scraped",
-    "tags": [
-      "proceduri administrative",
-      "redactare acte"
-    ],
-    "matchPercentage": 65,
-    "reason": "Activitate procedurală în materie civilă care folosește redactarea și aplicarea procedurilor administrative."
+    "reason": "Controlling financiar cu analize de performanță și raportare, potrivire parțială pentru finanțe publice la nivel de working student."
   }
 ]
