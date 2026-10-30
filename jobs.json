@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "legislație"
+    ],
+    "matchPercentage": 88,
+    "reason": "Inspector de specialitate în administrația publică, nivel entry-level, potrivit pentru aplicarea legislației și procedurilor administrative."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
     "title": "CONSILIER ADMINISTRATIA PUBLICA",
     "company": "RM TOP BUILDCONS S.R.L.",
@@ -14,44 +32,26 @@
       "administrație publică",
       "proceduri administrative"
     ],
-    "matchPercentage": 88,
-    "reason": "Post de consilier în administrația publică fără experiență, direct aliniat competențelor de proceduri și acte administrative."
+    "matchPercentage": 85,
+    "reason": "Post de consilier în administrația publică, fără experiență, cu atribuții directe de proceduri și acte administrative."
   },
   {
-    "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
-    "title": "Consultant în fonduri europene",
-    "company": "STARTUP WORKSPACE S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420849",
+    "title": "AUDITOR INTERN ÎN SECTORUL PUBLIC",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Marosvasarhely",
+      "Resita",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T11:59:22.731Z",
+    "date": "2026-10-17T12:13:19.965Z",
     "status": "scraped",
     "tags": [
-      "proiecte UE",
-      "achiziții publice"
-    ],
-    "matchPercentage": 88,
-    "reason": "Postul medior acoperă ciclul complet al proiectelor cu finanțare europeană, inclusiv achiziții publice și raportare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
-    "location": [
-      "Municipiul ramnicu valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
-    "status": "scraped",
-    "tags": [
-      "administrație publică",
-      "acte administrative"
+      "finanțe publice",
+      "evaluare performanțe"
     ],
     "matchPercentage": 85,
-    "reason": "Inspector de specialitate în administrația publică pentru candidați fără experiență, potrivit profilului."
+    "reason": "Auditorul intern în sectorul public folosește direct competențe de finanțe publice și evaluare instituțională, iar nivelul este fără experiență."
   },
   {
     "url": "https://multijobs.ro/job/expert-achizitii-publice/3308",
@@ -66,10 +66,28 @@
     "status": "scraped",
     "tags": [
       "achiziții publice",
-      "proceduri administrative"
+      "legislație"
     ],
-    "matchPercentage": 85,
-    "reason": "Poziția solicită expertiză în achiziții publice, competență centrală din planul de învățământ, iar titlul nu indică un nivel senior."
+    "matchPercentage": 82,
+    "reason": "Sarcinile de achiziții publice se potrivesc direct competențelor, iar nivelul de expert poate fi încadrat ca mid."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
+    "title": "Specialist fonduri europene",
+    "company": "BEST SMART CONSULTING SRL",
+    "location": [
+      "Mioveni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:41.370Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "management proiecte"
+    ],
+    "matchPercentage": 82,
+    "reason": "Specialist fonduri europene folosește direct competențele de accesare și management al proiectelor UE."
   },
   {
     "url": "https://oferimdemunca.ro/job/specialist-achizitii-publice/",
@@ -86,62 +104,8 @@
       "achiziții publice",
       "legislație"
     ],
-    "matchPercentage": 82,
-    "reason": "Sarcinile sunt direct pe achiziții publice și SEAP, iar experiența cerută de 2 ani se încadrează în nivelul junior/mid."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
-    "title": "Specialist fonduri europene",
-    "company": "BEST SMART CONSULTING SRL",
-    "location": [
-      "Mioveni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
-    "status": "scraped",
-    "tags": [
-      "proiecte UE",
-      "managementul proiectelor"
-    ],
-    "matchPercentage": 82,
-    "reason": "Specialistul în fonduri europene lucrează direct cu accesarea și administrarea proiectelor UE, competență centrală din planul de studii."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
-    "title": "Consultant scriere proiecte - Remote",
-    "company": "SYREM CONSULT S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:49.570Z",
-    "status": "scraped",
-    "tags": [
-      "proiecte UE",
-      "scrierea proiectelor"
-    ],
-    "matchPercentage": 82,
-    "reason": "Consultantul care scrie proiecte pentru accesarea fondurilor folosește direct competențele de redactare și administrare a proiectelor UE."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420849",
-    "title": "AUDITOR INTERN ÎN SECTORUL PUBLIC",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:13:19.965Z",
-    "status": "scraped",
-    "tags": [
-      "finanțe publice",
-      "legislație"
-    ],
-    "matchPercentage": 82,
-    "reason": "Audit intern în sectorul public, fără experiență, folosește finanțe publice și legislație administrativă."
+    "matchPercentage": 80,
+    "reason": "Sarcinile de achiziții publice și gestionare a contractelor folosesc direct competențele, iar experiența cerută de 2 ani se încadrează la junior/mid."
   },
   {
     "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
@@ -155,29 +119,11 @@
     "date": "2026-10-17T12:20:33.969Z",
     "status": "scraped",
     "tags": [
-      "proiecte UE",
-      "managementul proiectelor"
+      "fonduri europene",
+      "proiecte UE"
     ],
     "matchPercentage": 80,
-    "reason": "Accesarea fondurilor europene presupune redactarea și gestionarea proiectelor UE, domeniu direct relevant."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:04:11.925Z",
-    "status": "scraped",
-    "tags": [
-      "proiecte UE",
-      "managementul proiectelor"
-    ],
-    "matchPercentage": 80,
-    "reason": "Consultanța în fonduri europene implică direct accesarea și administrarea proiectelor UE, fără a indica un nivel senior."
+    "reason": "Accesarea fondurilor europene corespunde pregătirii de achiziție și administrare a proiectelor UE."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/business-consultant-public-sector",
@@ -191,11 +137,29 @@
     "date": "2026-10-17T12:12:15.111Z",
     "status": "scraped",
     "tags": [
-      "e-guvernare",
-      "management public"
+      "management public",
+      "e-guvernare"
     ],
-    "matchPercentage": 70,
-    "reason": "Consultanță pentru sectorul public la nivel mid, cu aplicare în e-guvernare și management public."
+    "matchPercentage": 78,
+    "reason": "Consultantul pentru sectorul public poate valorifica competențe de management public și e-guvernare, iar titlul nu indică un nivel senior."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
+    "title": "Consultant scriere proiecte - Remote",
+    "company": "SYREM CONSULT S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:18:49.570Z",
+    "status": "scraped",
+    "tags": [
+      "scriere proiecte",
+      "fonduri europene"
+    ],
+    "matchPercentage": 76,
+    "reason": "Scrierea de proiecte pentru accesarea fondurilor valorifică direct competențele de redactare și proiecte UE."
   },
   {
     "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
@@ -206,14 +170,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:05:07.410Z",
+    "date": "2026-10-29T12:15:39.718Z",
     "status": "scraped",
     "tags": [
       "contabilitate",
-      "limba germană"
+      "finanțe publice"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol junior de contabilitate și finanțe cu limba germană, potrivit competențelor financiare și lingvistice."
+    "matchPercentage": 72,
+    "reason": "Specialist junior în contabilitate și finanțe, potrivit pentru competențele financiare și cunoașterea limbii germane."
   },
   {
     "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_5469/",
@@ -224,32 +188,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:05:07.410Z",
+    "date": "2026-10-29T12:15:39.718Z",
     "status": "scraped",
     "tags": [
       "contabilitate",
-      "limba italiană"
+      "finanțe publice"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol junior de contabilitate și finanțe cu limba italiană, potrivit competențelor financiare și lingvistice."
-  },
-  {
-    "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
-    "title": "Analist Raportare Financiară – Ploiești",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:41.422Z",
-    "status": "scraped",
-    "tags": [
-      "management financiar",
-      "contabilitate"
-    ],
-    "matchPercentage": 68,
-    "reason": "Analiză și raportare financiară, rol parțial potrivit competențelor de finanțe și contabilitate, deși în sector privat."
+    "matchPercentage": 72,
+    "reason": "Specialist junior în contabilitate și finanțe, relevant pentru competențele financiar-contabile și limba italiană."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/secretar-secretara/99249866",
@@ -264,11 +210,47 @@
     "date": "2026-10-17T12:02:25.444Z",
     "status": "scraped",
     "tags": [
-      "proceduri",
-      "acte administrative"
+      "proceduri administrative",
+      "redactare acte"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol entry-level de gestionare a dosarelor de executare și redactare de proceduri și acte, relevant pentru competențele administrative și juridice."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:11.925Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanță"
     ],
     "matchPercentage": 68,
-    "reason": "Activitatea cu acte și proceduri executoriale utilizează direct competențele de redactare și aplicare procedurală."
+    "reason": "Consultanță în fonduri europene se suprapune parțial cu competențele de proiecte UE, fără a indica un nivel superior."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
+    "title": "Analist Raportare Financiară – Ploiești",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:41.422Z",
+    "status": "scraped",
+    "tags": [
+      "management financiar",
+      "analiză date"
+    ],
+    "matchPercentage": 66,
+    "reason": "Post de analist cu sarcini de raportare financiară, compatibil cu competențele de management financiar și analiză, la nivel entry/mid."
   },
   {
     "url": "https://multijobs.ro/job/ofertare-licitatii-publice-in-domeniul-constructiilor/6496",
@@ -283,10 +265,10 @@
     "status": "scraped",
     "tags": [
       "achiziții publice",
-      "legislație"
+      "licitații"
     ],
     "matchPercentage": 65,
-    "reason": "Ofertarea în licitații publice folosește competențele de achiziții publice, însă contextul construcțiilor face potrivirea doar parțială."
+    "reason": "Ofertarea la licitații publice folosește competențe de achiziții publice, dar contextul construcțiilor cere cunoștințe tehnice suplimentare."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
@@ -297,49 +279,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:22:31Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
       "achiziții publice",
       "negociere"
     ],
     "matchPercentage": 65,
-    "reason": "Specialist achiziții cu evaluare de oferte, negociere și proceduri de achiziție, parțial aliniat competențelor tale."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
-    "title": "Working Student - Controlling area",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:30:56.601Z",
-    "status": "scraped",
-    "tags": [
-      "buget",
-      "finanțe"
-    ],
-    "matchPercentage": 65,
-    "reason": "Controlling presupune bugetare și raportare financiară, dar nu este specific sectorului public."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3405267",
-    "title": "FORMATOR",
-    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:56.078Z",
-    "status": "scraped",
-    "tags": [
-      "formare",
-      "resurse umane"
-    ],
-    "matchPercentage": 65,
-    "reason": "Formarea se potrivește parțial cu dezvoltarea organizațională și resursele umane."
+    "reason": "Specialist achiziții cu evaluare de oferte, negociere și managementul furnizorilor, parțial relevant, dar în mediu privat."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
@@ -350,67 +297,47 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-28T12:30:56.601Z",
+    "date": "2026-10-29T12:41:42.608Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
-      "management financiar"
+      "management financiar",
+      "administrație publică"
     ],
-    "matchPercentage": 62,
-    "reason": "Internship în domenii precum administrarea afacerilor, contabilitate și finanțe, potrivit parțial profilului."
+    "matchPercentage": 65,
+    "reason": "Internship explicit pentru studenți la administrarea afacerilor, contabilitate, finanțe și economie, cu potențial de potrivire pe zona financiar-administrativă."
   },
   {
-    "url": "https://multijobs.ro/job/contabil-studii-superioare/2956",
-    "title": "CONTABIL - Studii superioare",
-    "company": "TEAM REAL ESTATE DEVELOPMENT SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155728469-working-student-controlling-area",
+    "title": "Working Student - Controlling area",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:16:38.887Z",
+    "date": "2026-10-29T12:41:42.608Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
-      "finanțe"
+      "management financiar",
+      "analiză de date"
     ],
-    "matchPercentage": 62,
-    "reason": "Activitatea contabilă se potrivește parțial cu competențele financiare, dar este una privată."
+    "matchPercentage": 65,
+    "reason": "Rol de tip working student cu sarcini de planificare bugetară, raportare și analiză financiară, parțial relevant pentru competențele de finanțe și management financiar."
   },
   {
-    "url": "https://www.smartbill.ro/cariere/job/contabil_-_consultanta_telefonica",
-    "title": "Contabil - Consultanta Telefonica",
-    "company": "SMARTBILL CONTAB A&amp;N SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
+    "title": "Junior Research Consultant",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Bucuresti",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:02:51.451Z",
+    "date": "2026-10-29T12:22:10.206Z",
     "status": "scraped",
     "tags": [
-      "contabilitate",
-      "finanțe"
+      "metode cercetare",
+      "analiză date"
     ],
     "matchPercentage": 62,
-    "reason": "Activitate contabilă, relevantă parțial pentru competențele financiare, dar strict în mediul privat."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/specialist-achizitii/99249549",
-    "title": "Specialist achizitii",
-    "company": "GREENBRIER ROMANIA S.A.",
-    "location": [
-      "Caracal",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:18.987Z",
-    "status": "scraped",
-    "tags": [
-      "achiziții",
-      "negociere"
-    ],
-    "matchPercentage": 60,
-    "reason": "Plant buyer cu sourcing, evaluare furnizori și negociere, potrivire parțială pe competența de achiziții."
+    "reason": "Rol junior de cercetare care folosește metode de cercetare socială, analiză de date și redactare de rapoarte, potrivire parțială."
   }
 ]
