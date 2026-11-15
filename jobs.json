@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
+    "title": "junior specialist accounting &amp;amp;amp; finance with german (bucuresti/iasi)",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T15:04:39.498Z",
+    "status": "scraped",
+    "tags": [
+      "finanțe",
+      "limbi străine"
+    ],
+    "matchPercentage": 66,
+    "reason": "Rol junior de accounting & finance cu germană, relevant parțial pentru competențele financiare și lingvistice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
+    "title": "Specialist Achizitii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-14T13:11:31Z",
+    "status": "scraped",
+    "tags": [
+      "achizitii",
+      "negociere"
+    ],
+    "matchPercentage": 65,
+    "reason": "Specialist achizitii cu evaluare de oferte, negociere si gestionare comenzi, potrivire partiala prin competenta de achizitii intr-un context privat tehnic."
+  },
+  {
     "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
     "title": "Contabil junior — birou Oradea",
     "company": "GAMINVEST SRL",
@@ -8,48 +44,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T08:52:31.536Z",
+    "date": "2026-11-15T08:10:25.110Z",
     "status": "scraped",
     "tags": [
       "contabilitate",
       "finanțe"
     ],
-    "matchPercentage": 68,
-    "reason": "Contabil junior, nivel potrivit și utilizează direct competențele de contabilitate și raportare financiară."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
-    "title": "junior specialist accounting &amp; finance with german (bucuresti/iasi)",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T13:53:42.731Z",
-    "status": "scraped",
-    "tags": [
-      "finanțe",
-      "limba germană"
-    ],
-    "matchPercentage": 65,
-    "reason": "Specialist junior în contabilitate și finanțe cu germană, potrivire parțială pe finanțe și limbi străine."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133017020-working-student-in-controlling-area",
-    "title": "Working Student in Controlling Area",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-13T14:22:01.036Z",
-    "status": "scraped",
-    "tags": [
-      "finanțe publice",
-      "evaluare performanțe"
-    ],
-    "matchPercentage": 62,
-    "reason": "Working student în controlling cu analize financiare și de performanță, potrivire parțială cu competențele financiare."
+    "matchPercentage": 60,
+    "reason": "Post junior de contabilitate care valorifică parțial competențele financiar-contabile, dar în sector privat, nu public."
   }
 ]
