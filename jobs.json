@@ -1,21 +1,39 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "HALLO UP SRL",
+    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
+    "title": "Specialist achizitii publice",
+    "company": "DOCTORUL DE DINTI SRL",
     "location": [
-      "BUCURESTI SECTORUL 1",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
+    "date": "2026-11-17T15:28:21Z",
+    "status": "tested",
+    "tags": [
+      "achiziții publice",
+      "proceduri"
+    ],
+    "matchPercentage": 90,
+    "reason": "Poziție entry-level explicită în achiziții publice, cu sarcini directe de documentație de atribuire, operare SEAP/SICAP și proceduri de licitație."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3419258",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "PRIMARIA COMUNEI UNTENI",
+    "location": [
+      "UNTENI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "proiecte UE",
-      "management proiecte"
+      "Finanțe publice",
+      "Proceduri administrative"
     ],
     "matchPercentage": 85,
-    "reason": "Accesarea fondurilor structurale europene se aliniază direct cu competențele de proiecte UE, iar nivelul de experiență este potrivit."
+    "reason": "Post de consilier în administrație publică, cu atribuții de impozite și taxe locale, potrivit experienței sub 3 ani și competențelor FSPAC."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
@@ -29,117 +47,136 @@
     "date": "2026-11-17T09:28:12Z",
     "status": "tested",
     "tags": [
-      "proiecte UE",
-      "scriere proiecte"
+      "fonduri UE",
+      "proiecte UE"
     ],
-    "matchPercentage": 82,
-    "reason": "Consultanță pentru fonduri europene, relevantă pentru proiecte UE și redactare proiecte, cu poziție junior disponibilă."
+    "matchPercentage": 85,
+    "reason": "Poziție explicit Junior/Senior de consultant fonduri europene, cu sarcini direct legate de proiectele UE."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222113/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-Contabilitate-Finante",
-    "title": "Programe de internship, trainee sau joburi entry-level in Contabilitate-Finante",
-    "company": "JUMP START SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
     "location": [
-      "Bucuresti",
+      "BUCURESTI SECTORUL 1",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:38:25Z",
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "fonduri UE",
+      "proiecte UE"
+    ],
+    "matchPercentage": 85,
+    "reason": "Accesare de fonduri structurale și de coeziune UE, domeniu direct relevant, cu sub 3 ani experiență cerute."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273687/ABC-Human-Capital/Expert-achizitii-publice-si-licitatii-publice-(Cluj-Napoca)",
+    "title": "Expert achizitii publice si licitatii publice (Cluj-Napoca)",
+    "company": "ABC HUMAN CAPITAL SRL",
+    "location": [
+      "Turda",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:04:39Z",
     "status": "tested",
+    "tags": [
+      "achiziții publice",
+      "proceduri"
+    ],
+    "matchPercentage": 80,
+    "reason": "Domeniul achizițiilor publice și licitațiilor se potrivește direct, iar titlul nu specifică o experiență îndelungată impusă."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:30:51Z",
+    "status": "tested",
+    "tags": [
+      "fonduri UE",
+      "proiecte UE"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consultantă în fonduri europene, domeniu care folosește direct competența de achiziție și administrare a proiectelor UE."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3433380",
+    "title": "FORMATOR",
+    "company": "ASOCIATIA DE CONSULTANTA SI CONSILIERE ECONOMICO-SOCIALA OLTENIA",
+    "location": [
+      "CRAIOVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "rapoarte",
+      "evaluare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Organizație nonprofit, nivel entry-level sub 3 ani, cu sarcini de documentare, rapoarte și evaluare a programelor de formare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3433150",
+    "title": "FORMATOR",
+    "company": "ASOCIATIA DE CONSULTANTA SI CONSILIERE ECONOMICO-SOCIALA OLTENIA",
+    "location": [
+      "CRAIOVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "rapoarte",
+      "evaluare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Organizație nonprofit, nivel entry-level sub 3 ani, cu sarcini de documentare, rapoarte și evaluare a programelor de formare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441538",
+    "title": "CONSILIER/EXPERT/INSPECTOR/REFERENT/ECONOMIST ÎN ECONOMIE GENERALA",
+    "company": "SPITALUL JUDETEAN DE URGENTA DR FOGOLYAN KRISTOF",
+    "location": [
+      "MUNICIPIUL SFANTU GHEORGHE",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
     "tags": [
       "finanțe publice",
       "contabilitate"
     ],
-    "matchPercentage": 70,
-    "reason": "Programe de internship și entry-level în contabilitate-finanțe, parțial aliniate cu competențele financiare dobândite."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/referent-resurse-umane/99254291",
-    "title": "Referent Resurse umane",
-    "company": "TINERVIS GROUP SRL",
-    "location": [
-      "Bacau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:19:05Z",
-    "status": "tested",
-    "tags": [
-      "resurse umane",
-      "redactare acte"
-    ],
-    "matchPercentage": 70,
-    "reason": "Referent resurse umane cu redactare de documente și interpretarea legislației muncii, nivel entry-level."
-  },
-  {
-    "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
-    "title": "Contabil junior — birou Oradea",
-    "company": "GAMINVEST SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:05:53.943Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate",
-      "finanțe"
-    ],
     "matchPercentage": 65,
-    "reason": "Contabilitatea e competență de specialitate, dar în sector privat, nu în instituții bugetare; nivelul junior e potrivit."
+    "reason": "Poziție economică entry-level într-o instituție publică bugetară, parțial relevantă pentru finanțele și contabilitatea publică."
   },
   {
-    "url": "https://multijobs.ro/job/inspector-resurse-umane-cu-limba-germana/1748",
-    "title": "Inspector Resurse Umane cu Limba Germană",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "resurse umane",
-      "limbi străine"
-    ],
-    "matchPercentage": 62,
-    "reason": "Inspector resurse umane cu limbă germană, rol entry-level care folosește competențe de resurse umane și limbi străine."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inspector-resurse-umane-776",
-    "title": "Inspector resurse umane",
-    "company": "BIALETTI STAINLESS STEEL SRL",
-    "location": [
-      "Plopeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:26:28Z",
-    "status": "tested",
-    "tags": [
-      "resurse umane"
-    ],
-    "matchPercentage": 60,
-    "reason": "Inspector resurse umane, rol entry-level în domeniul resurselor umane."
-  },
-  {
-    "url": "https://multijobs.ro/job/flexible-internship-in-audit-support-services-cluj-napoca-hybrid/5504",
-    "title": "Flexible Internship in Audit Support Services – Cluj-Napoca, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
+    "title": "Specialist Achizitii",
+    "company": "ELECTROGRUP SA",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:07:06Z",
-    "status": "tested",
+    "date": "2026-11-20T15:03:33Z",
+    "status": "scraped",
     "tags": [
-      "finanțe",
-      "evaluare"
+      "achiziții",
+      "proceduri"
     ],
-    "matchPercentage": 60,
-    "reason": "Auditul financiar folosește parțial competențe de control și evaluare, iar nivelul de internship e potrivit."
+    "matchPercentage": 65,
+    "reason": "Achiziții corporatiste de echipamente tehnice, cu proceduri RFI/RFQ/RFP parțial transferabile din achizițiile publice și nivel mid fără cerințe senior."
   }
 ]
