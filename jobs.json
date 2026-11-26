@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
+    "title": "Specialist achizitii publice",
+    "company": "DOCTORUL DE DINTI SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:28:21Z",
+    "status": "tested",
+    "tags": [
+      "achiziții publice",
+      "documentație"
+    ],
+    "matchPercentage": 92,
+    "reason": "Poziție entry-level exact în achiziții publice, folosind direct competențele de proceduri de achiziție și redactare de documente, cu doar 6 luni experiență cerută."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
     "title": "CONSILIER ADMINISTRATIA PUBLICA",
     "company": "PRIMARIA DARABANI",
@@ -11,11 +29,29 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "acte administrative",
-      "politici publice"
+      "proceduri administrative",
+      "management public"
     ],
-    "matchPercentage": 95,
-    "reason": "Consilier în administrația publică fără experiență, ideal pentru un absolvent FSPAC."
+    "matchPercentage": 90,
+    "reason": "Post de consilier în administrația publică la o primărie, fără experiență, cu domeniu și nivel ideale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
+    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
+    "company": "FORUM PROIECT INVEST SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:28:12Z",
+    "status": "tested",
+    "tags": [
+      "proiecte UE",
+      "management proiecte"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultant fonduri UE la nivel junior folosește direct managementul proiectelor și scrierea de propuneri."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
@@ -32,114 +68,8 @@
       "proceduri administrative",
       "acte administrative"
     ],
-    "matchPercentage": 88,
-    "reason": "Referent de specialitate în administrația publică, cu sub 3 ani experiență, potrivit ca domeniu și nivel."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
-    "title": "Specialist achizitii publice",
-    "company": "DOCTORUL DE DINTI SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:28:21Z",
-    "status": "tested",
-    "tags": [
-      "achiziții publice",
-      "proceduri"
-    ],
-    "matchPercentage": 88,
-    "reason": "Poziție entry-level exact în achiziții publice: SEAP/SICAP, documentație de atribuire, evaluare de oferte și proceduri, cu maxim 6 luni experiență."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
-    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
-    "company": "FORUM PROIECT INVEST SRL",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:28:12Z",
-    "status": "tested",
-    "tags": [
-      "proiecte UE"
-    ],
     "matchPercentage": 85,
-    "reason": "Consultant de fonduri europene la nivel junior folosește direct achiziția și administrarea proiectelor UE."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "HALLO UP SRL",
-    "location": [
-      "BUCURESTI SECTORUL 1",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "fonduri UE"
-    ],
-    "matchPercentage": 82,
-    "reason": "Accesarea fondurilor structurale și de coeziune corespunde direct competenței de proiecte UE, iar experiența cerută e sub 3 ani."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429865",
-    "title": "AUDITOR INTERN ÎN SECTORUL PUBLIC",
-    "company": "TURSIB SA",
-    "location": [
-      "SIBIU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "interpretare legislație",
-      "evaluare programe"
-    ],
-    "matchPercentage": 78,
-    "reason": "Audit public intern cu sarcini de legalitate, eficiență și evaluare instituțională, la nivel mid compatibil cu circa 3 ani de experiență."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/business-consultant-public-sector",
-    "title": "Business Consultant Public Sector",
-    "company": "TOTAL SOFT SRL",
-    "location": [
-      "Voluntari",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T08:59:31Z",
-    "status": "tested",
-    "tags": [
-      "management public",
-      "e-guvernare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Consultant pentru sectorul public la un furnizor de software, cu sarcini de digitalizare a serviciilor publice și procese administrative, la nivel junior/mid."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3433343",
-    "title": "AUDITOR INTERN ÎN SECTORUL PUBLIC",
-    "company": "UCMH SRL",
-    "location": [
-      "RESITA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "interpretare legislație",
-      "evaluare programe"
-    ],
-    "matchPercentage": 68,
-    "reason": "Poziție de auditor intern în sectorul public, în aceeași arie de competențe, deși descrierea sarcinilor e mai sumară."
+    "reason": "Referent de specialitate în administrație publică la o instituție de stat, cu sub 3 ani experiență, nivel potrivit."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3441538",
@@ -153,11 +83,64 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "management financiar",
-      "contabilitate"
+      "finanțe publice",
+      "contabilitate bugetară"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol economic într-o instituție publică, potrivit pentru absolvent FSPAC fără experiență."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/business-consultant-public-sector",
+    "title": "Business Consultant Public Sector",
+    "company": "TOTAL SOFT SRL",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T08:59:31Z",
+    "status": "tested",
+    "tags": [
+      "e-guvernare",
+      "proceduri administrative"
+    ],
+    "matchPercentage": 75,
+    "reason": "Consultant pentru sectorul public la un furnizor de software de e-guvernare, fără cerințe senior, folosind proceduri administrative și digitalizarea serviciilor publice."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
+    "title": "Working Student – Technical Project Administration",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T17:00:02.313Z",
+    "status": "scraped",
+    "tags": [
+      "management proiecte",
+      "management schimbării"
+    ],
+    "matchPercentage": 70,
+    "reason": "Working student în administrare tehnică de proiecte, cu metodologie de proiect, change management, buget și standarde de calitate, la nivel entry-level potrivit."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:51:22.430Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare",
+      "rapoarte"
     ],
     "matchPercentage": 65,
-    "reason": "Postul entry-level dintr-o instituție publică bugetară, fără experiență cerută, valorifică parțial competențele de economie și contabilitate a instituțiilor bugetare."
+    "reason": "Stagiul de cercetare de piață folosește direct chestionarele, analiza rezultatelor și redactarea de rapoarte și sinteze, la nivel de internship."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
@@ -168,120 +151,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T17:12:01Z",
+    "date": "2026-11-25T16:56:50Z",
     "status": "scraped",
     "tags": [
-      "achizitii publice"
+      "achizitii",
+      "negociere"
     ],
     "matchPercentage": 65,
-    "reason": "Folosește proceduri de achiziție (RFI/RFQ/RFP), dar este achiziție corporatistă de echipamente tehnice, nu achiziții publice."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222113/JumpStart---A-GenZ-Career-Hub/Programe-de-internship,-trainee-sau-joburi-entry-level-in-Contabilitate-Finante",
-    "title": "Programe de internship, trainee sau joburi entry-level in Contabilitate-Finante",
-    "company": "JUMP START SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:38:25Z",
-    "status": "tested",
-    "tags": [
-      "contabilitate",
-      "finanțe publice"
-    ],
-    "matchPercentage": 65,
-    "reason": "Hub de internshipe și joburi entry-level în contabilitate-finanțe, nivel perfect și domeniu financiar parțial relevant."
-  },
-  {
-    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-AR-Accountant_R-2026043499",
-    "title": "Junior AR Accountant",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "Voluntari",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:42:03.890Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate",
-      "management financiar"
-    ],
-    "matchPercentage": 65,
-    "reason": "Contabil junior AR cu înregistrări, reconcilieri, închideri lunare și conformitate, competențe financiar-contabile parțial aplicabile."
-  },
-  {
-    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Junior-GL-Accountant_R-2026042700-1",
-    "title": "Junior GL Accountant",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "Voluntari",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:42:03.890Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate",
-      "management financiar"
-    ],
-    "matchPercentage": 65,
-    "reason": "Contabil junior GL care cere diplomă în contabilitate sau finanțe și lucrări de închidere, potrivire parțială cu competențele financiare."
-  },
-  {
-    "url": "https://www.smartbill.ro/cariere/job/contabil_-_consultanta_telefonica",
-    "title": "Contabil - Consultanta Telefonica",
-    "company": "SMARTBILL CONTAB A&amp;N SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:19:36Z",
-    "status": "tested",
-    "tags": [
-      "contabilitate",
-      "management financiar"
-    ],
-    "matchPercentage": 65,
-    "reason": "Contabilitate consultativă într-o firmă privată, domeniu financiar înrudit, iar nivelul nu cere experiență senior."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/",
-    "title": "junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:56:45.424Z",
-    "status": "scraped",
-    "tags": [
-      "management financiar",
-      "germană"
-    ],
-    "matchPercentage": 62,
-    "reason": "Rol junior de contabilitate și finanțe cu germană care folosește competențe financiare și lingvistice, dar în operațiuni bancare private."
-  },
-  {
-    "url": "https://gaminvest.ro/ro/cariere/contabil-junior-birou-oradea-2",
-    "title": "Contabil junior — birou Oradea",
-    "company": "GAMINVEST SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:52:32.407Z",
-    "status": "scraped",
-    "tags": [
-      "contabilitate",
-      "management financiar"
-    ],
-    "matchPercentage": 60,
-    "reason": "Contabil junior într-o firmă privată, competențe de contabilitate folosite direct, dar fără specific bugetar."
+    "reason": "Procedurile de achiziție (RFI/RFQ/RFP) se suprapun parțial peste competența de achiziții, iar nivelul specialist este entry-level."
   }
 ]
